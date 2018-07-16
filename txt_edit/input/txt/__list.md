@@ -1,3 +1,3 @@
 ## look at this page
 ------
-https://de.wikisource.org/wiki/Friedrich_Schiller
+https://github.com/robinarthur/5pk/blob/master/Dokumente/Werksammlung.ipynb
