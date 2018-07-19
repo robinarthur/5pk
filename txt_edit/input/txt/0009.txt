@@ -1,197 +1,8 @@
 
-
-
-
-Inhalt
-
-div.sgc-toc-title { font-size: 2em; font-face: bold; margin-bottom: 1em; text-align:center; }
-  div.sgc-toc-level-1 { margin-left: 0em; }
-  div.sgc-toc-level-2 { margin-left: 2em; }
-  div.sgc-toc-level-3 { margin-left: 2em; }
-  div.sgc-toc-level-4 { margin-left: 2em; }
-  div.sgc-toc-level-5 { margin-left: 2em; }
-  div.sgc-toc-level-6 { margin-left: 2em; }
-
-  a.sgc-2 {color: #0000FF;text-decoration: underline;}
-  h2.sgc-1 {text-align: left;}
-
-
-
-
-
 Kabale und Liebe
 Ein bürgerliches Trauerspiel
-Inhaltsverzeichnis
-
-
-
-
 
 Personen
-
-
-Erster Akt
-
-Erste Scene
-
-
-Zweite Scene
-
-
-Dritte Scene
-
-
-Vierte Scene
-
-
-Fünfte Scene
-
-
-Sechste Scene
-
-
-Siebente Scene
-
-
-
-
-
-
-Zweiter Akt
-
-Erste Scene
-
-
-Zweite Scene
-
-
-Dritte Scene
-
-
-Vierte Scene
-
-
-Fünfte Scene
-
-
-Sechste Scene
-
-
-Siebente Scene
-
-
-
-
-
-
-Dritter Akt
-
-Erste Scene
-
-
-Zweite Scene
-
-
-Dritte Scene
-
-
-Vierte Scene
-
-
-Fünfte Scene
-
-
-Sechste Scene
-
-
-
-
-
-
-Vierter Akt
-
-Erste Scene
-
-
-Zweite Scene
-
-
-Dritte Scene
-
-
-Vierte Scene
-
-
-Fünfte Scene
-
-
-Sechste Scene
-
-
-Siebente Scene
-
-
-Achte Scene
-
-
-Neunte Scene
-
-
-
-
-
-
-Fünfter Akt
-
-Erste Scene
-
-
-Zweite Scene
-
-
-Dritte Scene
-
-
-Vierte Scene
-
-
-Fünfte Scene
-
-
-Sechste Scene
-
-
-Siebente Scene
-
-
-Letzte Scene
-
-
-
-
-
-
-
-
-
-e-artnow
-
-
-
-div.sgc-1 {margin-left: 2em;}
-
-  a.sgc-2 {line-height: 1.2;}
-
-  div.sgc-5 {text-align:center}
-  h1.sgc-4 {text-align: center;}
-  h2.sgc-3 {margin:20% 0 0 0;text-align: center;}
-
-
-
-Personen
-Inhaltsverzeichnis
-
-
 
 
 Präsident von Walter, am Hof eines deutschen Fürsten.
@@ -207,38 +18,14 @@ Ein Kammerdiener des Fürsten.
 Verschiedene Nebenpersonen.
 
 
-
-
-
-
-
-
-
-e-artnow
-
-
-
-div.sgc-1 {margin-left: 2em;}
-
-  a.sgc-2 {line-height: 1.2;}
-
-  div.sgc-5 {text-align:center}
-  h1.sgc-4 {text-align: center;}
-  h2.sgc-3 {margin:20% 0 0 0;text-align: center;}
-
-
-
-
-
-
 Erster Akt
-Inhaltsverzeichnis
+
 
 
 
 
 Erste Scene
-Inhaltsverzeichnis
+
 
 
 
@@ -265,7 +52,7 @@ Miller. Da liegt der Haas im Pfeffer. Darum, just eben darum muß die Sach noch 
 
 
 Zweite Scene
-Inhaltsverzeichnis
+
 
 
 
@@ -304,7 +91,7 @@ Miller. Du aber auch mit deinem pestilenzialischen Junker – Hast mich vorhin a
 
 
 Dritte Scene
-Inhaltsverzeichnis
+
 
 
 
@@ -332,7 +119,7 @@ Frau. Mein Gott! Wie seh’ ich aus; ich muß mich ja schämen. Ich darf mich ni
 
 
 Vierte Scene
-Inhaltsverzeichnis
+
 
 
 
@@ -357,7 +144,7 @@ Luise. Ich hatte diese Träume vergessen und war glücklich – Jetzt! jetzt! vo
 
 
 Fünfte Scene
-Inhaltsverzeichnis
+
 
 
 
@@ -395,7 +182,7 @@ Ein Kammerdiener (tritt herein). Hofmarschall von Kalb – Präsident. Kommt wie
 
 
 Sechste Scene
-Inhaltsverzeichnis
+
 
 
 
@@ -422,7 +209,7 @@ Hofmarschall (entzückt). O mit tausend Freuden, mein Bester! – Was kann mir e
 
 
 Siebente Scene
-Inhaltsverzeichnis
+
 
 
 
@@ -462,33 +249,8 @@ Präsident. Wohin? Halt! Ist das der Respect, den du mir schuldig bist? (Der Maj
 Ferdinand (schneeblaß und zitternd). Wie? Was? Es ist gewiß nichts, mein Vater!
 Präsident (einen fürchterlichen Blick auf ihn heftend). Und wenn es was ist – und wenn ich die Spur finden sollte, woher diese Widersetzlichkeit stammt – – Ha, Junge! der bloße Verdacht schon bringt mich zum Rasen! Geh den Augenblick! Die Wachtparade fängt an! Du wirst bei der Lady sein, sobald die Parole gegeben ist – Wenn ich auftrete, zittert ein Herzogthum. Laß doch sehen, ob mich ein Starrkopf von Sohn meistert. (Er geht und kommt noch einmal wieder.) Junge, ich sage dir, du wirst dort sein, oder fliehe meinen Zorn! (Er geht ab.) Ferdinand (erwacht aus einer dumpfen Betäubung). Ist er weg? War das eines Vaters Stimme? – Ja! ich will zu ihr – will hin – will ihr Dinge sagen, will ihr einen Spiegel vorhalten – Nichtswürdige! und wenn du auch noch dann meine Hand verlangst – Im Angesicht des versammelten Adels, des Militärs und des Volks – Umgürte dich mit dem ganzen Stolz deines Englands – Ich verwerfe dich – ein deutscher Jüngling! (Er eilt hinaus.)
 
-
-
-
-
-
-
-
-
-
-e-artnow
-
-
-
-div.sgc-1 {margin-left: 2em;}
-
-  a.sgc-2 {line-height: 1.2;}
-
-  div.sgc-5 {text-align:center}
-  h1.sgc-4 {text-align: center;}
-  h2.sgc-3 {margin:20% 0 0 0;text-align: center;}
-
-
-
-
-
 Zweiter Akt
-Inhaltsverzeichnis
+
 
 
 
@@ -497,7 +259,7 @@ Ein Saal im Palais der Lady Milford; zur rechten Hand steht ein Sopha, zur linke
 
 
 Erste Scene
-Inhaltsverzeichnis
+
 
 
 
@@ -527,7 +289,7 @@ Lady. Sie ließen sich beschwatzen, Sophie – der schwache Fürst – der hofsc
 
 
 Zweite Scene
-Inhaltsverzeichnis
+
 
 
 
@@ -559,7 +321,7 @@ Lady (stotternd). Er soll mir willkommen sein. (Bedienter hinaus.) Sprich, Sophi
 
 
 Dritte Scene
-Inhaltsverzeichnis
+
 
 
 
@@ -618,7 +380,7 @@ Lady. Weil ich es muß. (Mit Ernst und Stärke.) Meine Leidenschaft, Walter, wei
 
 
 Vierte Scene
-Inhaltsverzeichnis
+
 
 
 
@@ -648,7 +410,7 @@ Miller (springt wieder vom Stuhl auf). Aber soll mir der Dintenkleckser einmal i
 
 
 Fünfte Scene
-Inhaltsverzeichnis
+
 
 
 
@@ -679,7 +441,7 @@ Luise. Mir wird bange! Blick’ weg! Deine Lippen beben! Dein Auge rollt fürcht
 
 
 Sechste Scene
-Inhaltsverzeichnis
+
 
 
 
@@ -732,7 +494,7 @@ Miller (kommt aus einer dumpfen Betäubung zu sich selbst). Schau du nach deinem
 
 
 Siebente Scene
-Inhaltsverzeichnis
+
 
 
 
@@ -764,31 +526,8 @@ Präsident. Thu’ es, wenn deine Klinge noch spitzig ist.
 Ferdinand (läßt Luisen fahren und blickt fürchterlich zum Himmel). Du, Allmächtiger, bist Zeuge! Kein menschliches Mittel ließ ich unversucht – ich muß zu einem teuflischen schreiten – Ihr führt sie zum Pranger fort, unterdessen (dem Präsidenten ins Ohr rufend) erzähl’ ich der Residenz eine Geschichte, wie man Präsident wird. (Ab.) Präsident (wie vom Blitz gerührt). Was ist das?- Ferdinand – Laßt sie ledig! (Er eilt dem Major nach.)
 
 
-
-
-
-
-
-
-
-e-artnow
-
-
-
-div.sgc-1 {margin-left: 2em;}
-
-  a.sgc-2 {line-height: 1.2;}
-
-  div.sgc-5 {text-align:center}
-  h1.sgc-4 {text-align: center;}
-  h2.sgc-3 {margin:20% 0 0 0;text-align: center;}
-
-
-
-
-
 Dritter Akt
-Inhaltsverzeichnis
+
 
 
 
@@ -797,7 +536,7 @@ Saal beim Präsidenten.
 
 
 Erste Scene
-Inhaltsverzeichnis
+
 
 
 
@@ -853,7 +592,7 @@ Kammerdiener. Ganz gut, Ihr’ Excellenz! (Ab.)
 
 
 Zweite Scene
-Inhaltsverzeichnis
+
 
 
 
@@ -924,7 +663,7 @@ Hofmarschall (ruft zurück). Ah, mon Dieu! – Sie kennen mich ja.
 
 
 Dritte Scene
-Inhaltsverzeichnis
+
 
 
 
@@ -939,7 +678,7 @@ Präsident (nachdem er gelesen). Herrlich! herrlich, Secretär! Auch der Marscha
 
 
 Vierte Scene
-Inhaltsverzeichnis
+
 
 
 
@@ -972,7 +711,7 @@ Ferdinand. Kalte Pflicht gegen feurige Liebe! – Und mich soll das Märchen ble
 
 
 Fünfte Scene
-Inhaltsverzeichnis
+
 
 
 
@@ -992,7 +731,7 @@ Es ist nichts Wirkliches – Es ist nichts als das schaudernde Gaukelspiel des e
 
 
 Sechste Scene
-Inhaltsverzeichnis
+
 
 
 
@@ -1089,37 +828,14 @@ Wurm. Nur noch die Kleinigkeit, Jungfer. Die müssen mit mir und das Sacrament d
 Luise. Gott! Gott! und du selbst mußt das Siegel geben, die Werke der Hölle zu verwahren? (Wurm zieht sie fort.)
 
 
-
-
-
-
-
-
-
-e-artnow
-
-
-
-div.sgc-1 {margin-left: 2em;}
-
-  a.sgc-2 {line-height: 1.2;}
-
-  div.sgc-5 {text-align:center}
-  h1.sgc-4 {text-align: center;}
-  h2.sgc-3 {margin:20% 0 0 0;text-align: center;}
-
-
-
-
-
 Vierter Akt
-Inhaltsverzeichnis
+
 
 
 
 
 Erste Scene
-Inhaltsverzeichnis
+
 
 
 
@@ -1138,7 +854,7 @@ Ferdinand. Der gnädige Herr soll im Namen der ganzen Hölle daher kommen. (Kamm
 
 
 Zweite Scene
-Inhaltsverzeichnis
+
 
 
 
@@ -1160,7 +876,7 @@ Sie weiß, was sie aus mir gemacht hat. Sie hat meine ganze Seele gesehen. Mein 
 
 
 Dritte Scene
-Inhaltsverzeichnis
+
 
 
 
@@ -1206,7 +922,7 @@ Ferdinand (zurücktretend). Du sahst sie nie? Kennst sie nicht? Weißt gar nicht
 
 
 Vierte Scene
-Inhaltsverzeichnis
+
 
 
 
@@ -1226,7 +942,7 @@ Eine Ewigkeit mit ihr auf ein Rad der Verdammniß geflochten – Augen in Augen 
 
 
 Fünfte Scene
-Inhaltsverzeichnis
+
 
 
 
@@ -1252,7 +968,7 @@ Ferdinand (stürzt fürchterlich aus dem Zimmer). Das fehlte noch! – Leben Sie
 
 
 Sechste Scene
-Inhaltsverzeichnis
+
 
 
 
@@ -1276,7 +992,7 @@ Ein Kammerdiener (tritt auf). Mamsell Millerin – Lady (zu Sophien). Hinweg, du
 
 
 Siebente Scene
-Inhaltsverzeichnis
+
 
 
 
@@ -1322,7 +1038,7 @@ Luise (tritt zurück voll Befremdung). Spottet sie einer Verzweifelnden, oder so
 
 
 Achte Scene
-Inhaltsverzeichnis
+
 
 
 
@@ -1342,7 +1058,7 @@ Verkrieche dich jetzt, weiches, leidendes Weib! – Fahret hin, süße, goldene 
 
 
 Neunte Scene
-Inhaltsverzeichnis
+
 
 
 
@@ -1380,31 +1096,8 @@ Lady. Mann des Erbarmens! zu Höchsteigenen Händen, und sollst melden zu Höchs
 (Sie eilt ab. Alle Übrigen gehen sehr bewegt auseinander.)
 
 
-
-
-
-
-
-
-
-e-artnow
-
-
-
-div.sgc-1 {margin-left: 2em;}
-
-  a.sgc-2 {line-height: 1.2;}
-
-  div.sgc-5 {text-align:center}
-  h1.sgc-4 {text-align: center;}
-  h2.sgc-3 {margin:20% 0 0 0;text-align: center;}
-
-
-
-
-
 Fünfter Akt
-Inhaltsverzeichnis
+
 
 
 
@@ -1413,7 +1106,7 @@ Abend zwischen Licht im Zimmer beim Musikanten.
 
 
 Erste Scene
-Inhaltsverzeichnis
+
 
 
 
@@ -1459,7 +1152,7 @@ Luise. Doch hinweg aus dieser Gegend, mein Vater – Weg von der Stadt, wo meine
 
 
 Zweite Scene
-Inhaltsverzeichnis
+
 
 
 
@@ -1501,7 +1194,7 @@ Ferdinand. Gut! gut! Ich bin ja ruhig – ruhig, sagt man ja, ist auch der schau
 
 
 Dritte Scene
-Inhaltsverzeichnis
+
 
 
 
@@ -1524,7 +1217,7 @@ Ferdinand (heftig erschüttert). Ha! – – Seh’ Er doch lieber nach dem Tran
 
 
 Vierte Scene
-Inhaltsverzeichnis
+
 
 
 
@@ -1539,7 +1232,7 @@ Rauben? – rauben den letzten Nothpfenning einem Bettler? Die Krücke zerbroche
 
 
 Fünfte Scene
-Inhaltsverzeichnis
+
 
 
 
@@ -1576,7 +1269,7 @@ Miller (noch hitziger und ihn hart an der Weste fassend, voll inniger Freude). U
 
 
 Sechste Scene
-Inhaltsverzeichnis
+
 
 
 
@@ -1599,7 +1292,7 @@ Miller. Du bist allein, und es ist finstre Nacht, meine Tochter. (Ab.) Ferdinand
 
 
 Siebente Scene
-Inhaltsverzeichnis
+
 
 
 
@@ -1678,7 +1371,7 @@ Ferdinand (schrecklich emporgeworfen). Gelobet sei Gott! noch spür’ und das G
 
 
 Letzte Scene
-Inhaltsverzeichnis
+
 
 
 
@@ -1700,8 +1393,3 @@ Wurm (klopft ihn auf die Schulter). Ich werde, Kamerad! Ich werde! – Rasend bi
 Präsident (in der schrecklichsten Qual vor ihm niederfallend). Geschöpf und Schöpfer verlassen mich – Soll kein Blick mehr zu meiner letzten Erquickung fallen?
 Ferdinand (reicht ihm seine sterbende Hand).
 Präsident (steht schnell auf). Er vergab mir! (Zu den Andern.) Jetzt euer Gefangener! (Er geht ab, Gerichtsdiener folgen ihm, der Vorhang fällt.) 
-
-
-
-
-

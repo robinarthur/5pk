@@ -1,150 +1,19 @@
-
-
-
-
-Inhalt
-
-div.sgc-toc-title { font-size: 2em; font-face: bold; margin-bottom: 1em; text-align:center; }
-  div.sgc-toc-level-1 { margin-left: 0em; }
-  div.sgc-toc-level-2 { margin-left: 2em; }
-  div.sgc-toc-level-3 { margin-left: 2em; }
-  div.sgc-toc-level-4 { margin-left: 2em; }
-  div.sgc-toc-level-5 { margin-left: 2em; }
-  div.sgc-toc-level-6 { margin-left: 2em; }
-
-  a.sgc-2 {color: #0000FF;text-decoration: underline;}
-  h2.sgc-1 {text-align: left;}
-
-
-
-
 Wallenstein
 Ein dramatisches Gedicht
-Inhaltsverzeichnis
-
-
-
-
 
 Wallensteins Lager
-
-
-
-
-
 Die Piccolomini
-
-
-
-
-
-
 Wallensteins Tod
 
-
-
-
-
-
-
-Inhalt
-
-div.sgc-toc-title { font-size: 2em; font-face: bold; margin-bottom: 1em; text-align:center; }
-  div.sgc-toc-level-1 { margin-left: 0em; }
-  div.sgc-toc-level-2 { margin-left: 2em; }
-  div.sgc-toc-level-3 { margin-left: 2em; }
-  div.sgc-toc-level-4 { margin-left: 2em; }
-  div.sgc-toc-level-5 { margin-left: 2em; }
-  div.sgc-toc-level-6 { margin-left: 2em; }
-
-  a.sgc-2 {color: #0000FF;text-decoration: underline;}
-  h2.sgc-1 {text-align: left;}
-
-
-
-
-
-
 Wallensteins Lager
-Inhaltsverzeichnis
-
-
-
 
 
 Prolog
 
-
-Personen
-
-
-Erster Auftritt
-
-
-Zweiter Auftritt
-
-
-Dritter Auftritt
-
-
-Vierter Auftritt
-
-
-Fünfter Auftritt
-
-
-Sechster Auftritt
-
-
-Siebenter Auftritt
-
-
-Achter Auftritt
-
-
-Neunter Auftritt
-
-
-Zehnter Auftritt
-
-
-Eilfter Auftritt
-
-
-
-
-
-
-
-
-
-e-artnow
-
-
-
-div.sgc-1 {margin-left: 2em;}
-
-  a.sgc-2 {line-height: 1.2;}
-
-  div.sgc-5 {text-align:center}
-  h1.sgc-4 {text-align: center;}
-  h2.sgc-3 {margin:20% 0 0 0;text-align: center;}
-
-
-
-
-Prolog
-Inhaltsverzeichnis
 
 
 
 Gesprochen bei Wiedereröffnung der Schaubühne in Weimar im October 1798.
-
-
-
-
-
-
 
 
 Der scherzenden, der ernsten Maske Spiel,
@@ -289,211 +158,36 @@ Der scherzenden, der ernsten Maske Spiel,
 
 
 
-
-
-
-
-
-
-
-e-artnow
-
-
-
-div.sgc-1 {margin-left: 2em;}
-
-  a.sgc-2 {line-height: 1.2;}
-
-  div.sgc-5 {text-align:center}
-  h1.sgc-4 {text-align: center;}
-  h2.sgc-3 {margin:20% 0 0 0;text-align: center;}
-
-
-
-
 Personen
-Inhaltsverzeichnis
-
-
-
 
 
 
 Wachtmeister, von einem Terzky’schen Karabinier-Regiment.
-
-
-
-
-
-
 Trompeter, von einem Terzky’schen Karabinier-Regiment.
-
-
-
-
-
-
 Konstabler.
-
-
-
-
-
-
 Scharfschützen.
-
-
-
-
-
-
 Zwei Holkische reitende Jäger.
-
-
-
-
-
-
 Buttlerische Dragoner.
-
-
-
-
-
-
 Arkebusiere vom Regiment Tiefenbach.
-
-
-
-
-
-
 Kürassier von einem wallonischen Regiment.
-
-
-
-
-
-
 Kürassier von einem lombardischen Regiment.
-
-
-
-
-
-
 Kroaten.
-
-
-
-
-
-
 Uhlanen.
-
-
-
-
-
-
 Rekrut.
-
-
-
-
-
-
 Bürger.
-
-
-
-
-
-
 Bauer.
-
-
-
-
-
-
 Bauerknabe.
-
-
-
-
-
-
 Kapuziner.
-
-
-
-
-
-
 Soldatenschulmeister.
-
-
-
-
-
-
 Marketenderin.
-
-
-
-
-
-
 Eine Aufwärterin.
-
-
-
-
-
-
 Soldatenjungen.
-
-
-
-
-
-
 Hoboisten.
-
-
-
-
-
 
     Vor der Stadt Pilsen in Böhmen.
 
-
-
-
-
-
-
-e-artnow
-
-
-
-div.sgc-1 {margin-left: 2em;}
-
-  a.sgc-2 {line-height: 1.2;}
-
-  div.sgc-5 {text-align:center}
-  h1.sgc-4 {text-align: center;}
-  h2.sgc-3 {margin:20% 0 0 0;text-align: center;}
-
-
-
-
-
-
-
 Erster Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -566,7 +260,7 @@ Bauer.
 
 
 Zweiter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -641,7 +335,7 @@ Wachtmeister.
 
 
 Dritter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -677,7 +371,7 @@ Scharfschütz (winkt dem Trompeter).
 
 
 Vierter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -705,32 +399,8 @@ Konstabler.
           Meint Ihr? – Was Ihr nicht Alles wißt!
 
 
-
-
-
-
-
-
-
-
-e-artnow
-
-
-
-div.sgc-1 {margin-left: 2em;}
-
-  a.sgc-2 {line-height: 1.2;}
-
-  div.sgc-5 {text-align:center}
-  h1.sgc-4 {text-align: center;}
-  h2.sgc-3 {margin:20% 0 0 0;text-align: center;}
-
-
-
-
-
 Fünfter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -835,7 +505,7 @@ Aufwärterin.
 
 
 Sechster Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -1087,7 +757,7 @@ Zweiter Jäger.
 
 
 Siebenter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -1252,7 +922,7 @@ Wachtmeister.
 
 
 Achter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -1424,7 +1094,7 @@ von ihm abwehren.)
 
 
 Neunter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -1476,7 +1146,7 @@ Trompeter.
 
 
 Zehnter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -1513,7 +1183,7 @@ Erster Jäger (zum Trompeter).
 
 
 Eilfter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -2131,180 +1801,12 @@ Chor.
 
 
 
-
-
-
-
-
-Inhalt
-
-div.sgc-toc-title { font-size: 2em; font-face: bold; margin-bottom: 1em; text-align:center; }
-  div.sgc-toc-level-1 { margin-left: 0em; }
-  div.sgc-toc-level-2 { margin-left: 2em; }
-  div.sgc-toc-level-3 { margin-left: 2em; }
-  div.sgc-toc-level-4 { margin-left: 2em; }
-  div.sgc-toc-level-5 { margin-left: 2em; }
-  div.sgc-toc-level-6 { margin-left: 2em; }
-
-  a.sgc-2 {color: #0000FF;text-decoration: underline;}
-  h2.sgc-1 {text-align: left;}
-
-
-
-
-
 Die Piccolomini
 In fünf Aufzügen
-Inhaltsverzeichnis
-
 
 
 Personen
 
-
-Erster Aufzug
-
-Erster Auftritt
-
-
-Zweiter Auftritt
-
-
-Dritter Auftritt
-
-
-Vierter Auftritt
-
-
-Fünfter Auftritt
-
-
-
-
-
-
-Zweiter Aufzug
-
-Erster Auftritt
-
-
-Zweiter Auftritt
-
-
-Dritter Auftritt
-
-
-Vierter Auftritt
-
-
-Fünfter Auftritt
-
-
-Sechster Auftritt
-
-
-Siebenter Auftritt
-
-
-
-
-
-
-Dritter Aufzug
-
-Erster Auftritt
-
-
-Zweiter Auftritt
-
-
-Dritter Auftritt
-
-
-Vierter Auftritt
-
-
-Fünfter Auftritt
-
-
-Sechster Auftritt
-
-
-Siebenter Auftritt
-
-
-Achter Auftritt
-
-
-Neunter Auftritt
-
-
-
-
-
-
-Vierter Aufzug
-
-Erster Auftritt
-
-
-Zweiter Auftritt
-
-
-Dritter Auftritt
-
-
-Vierter Auftritt
-
-
-Fünfter Auftritt
-
-
-Sechster Auftritt
-
-
-Siebenter Auftritt
-
-
-
-
-
-
-Fünfter Aufzug
-
-Erster Auftritt
-
-
-Zweiter Auftritt
-
-
-Dritter Auftritt
-
-
-
-
-
-
-
-
-
-e-artnow
-
-
-
-div.sgc-1 {margin-left: 2em;}
-
-  a.sgc-2 {line-height: 1.2;}
-
-  div.sgc-5 {text-align:center}
-  h1.sgc-4 {text-align: center;}
-  h2.sgc-3 {margin:20% 0 0 0;text-align: center;}
-
-
-
-
-Personen
-Inhaltsverzeichnis
 
 
 Wallenstein, Herzog zu Friedland, kaiserlicher Generalissimus im dreißigjährigen Kriege.
@@ -2330,27 +1832,8 @@ Mehrere Obersten und Generale.
 
 
 
-
-
-e-artnow
-
-
-
-div.sgc-1 {margin-left: 2em;}
-
-  a.sgc-2 {line-height: 1.2;}
-
-  div.sgc-5 {text-align:center}
-  h1.sgc-4 {text-align: center;}
-  h2.sgc-3 {margin:20% 0 0 0;text-align: center;}
-
-
-
-
-
-
 Erster Aufzug
-Inhaltsverzeichnis
+
 
 
 
@@ -2359,7 +1842,7 @@ Ein alter gothischer Saal auf dem Rathhause zu Pilsen, mit Fahnen und anderm Kri
 
 
 Erster Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -2484,7 +1967,7 @@ Buttler (den Kopf bedenklich schüttelnd). Ich fürchte,
 
 
 Zweiter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -2755,7 +2238,7 @@ Illo.
 
 
 Dritter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -2895,7 +2378,7 @@ Octavio. Ich muß es darauf wagen – Still! Da kommt er.
 
 
 Vierter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -3138,7 +2621,7 @@ Max (mit Heftigkeit sich zu ihm wendend).
 
 
 Fünfter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -3190,31 +2673,8 @@ Octavio (gefaßter).
 
 
 
-
-
-
-
-
-
-
-e-artnow
-
-
-
-div.sgc-1 {margin-left: 2em;}
-
-  a.sgc-2 {line-height: 1.2;}
-
-  div.sgc-5 {text-align:center}
-  h1.sgc-4 {text-align: center;}
-  h2.sgc-3 {margin:20% 0 0 0;text-align: center;}
-
-
-
-
-
 Zweiter Aufzug
-Inhaltsverzeichnis
+
 
 
 
@@ -3223,7 +2683,7 @@ Saal beim Herzog von Friedland.
 
 
 Erster Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -3280,7 +2740,7 @@ Zweiter Bedienter.
 
 
 Zweiter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -3413,7 +2873,7 @@ Herzogin (sich bittend an ihn schmiegend).
 
 
 Dritter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -3480,7 +2940,7 @@ Wallenstein (zur Herzogin).
 
 
 Vierter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -3561,7 +3021,7 @@ Terzky (ihn nachrufend).
 
 
 Fünfter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -3666,7 +3126,7 @@ Terzky.
 
 
 Sechster Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -3864,7 +3324,7 @@ Illo.
 
 
 Siebenter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -4256,31 +3716,8 @@ Wallenstein (mit Ansehen, indem er auf Illo zeigt).
 (Geht ab.)
 
 
-
-
-
-
-
-
-
-e-artnow
-
-
-
-div.sgc-1 {margin-left: 2em;}
-
-  a.sgc-2 {line-height: 1.2;}
-
-  div.sgc-5 {text-align:center}
-  h1.sgc-4 {text-align: center;}
-  h2.sgc-3 {margin:20% 0 0 0;text-align: center;}
-
-
-
-
-
 Dritter Aufzug
-Inhaltsverzeichnis
+
 
 
 
@@ -4289,7 +3726,7 @@ Ein Zimmer.
 
 
 Erster Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -4403,7 +3840,7 @@ Terzky. Ein Geheimniß! Still! Sie kommt!
 
 
 Zweiter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -4461,7 +3898,7 @@ Gräfin.
 
 
 Dritter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -4610,7 +4047,7 @@ Max (lebhaft). Nun?
 
 
 Vierter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -4819,7 +4256,7 @@ Gräfin.
 
 
 Fünfter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -4899,7 +4336,7 @@ Thekla.
 
 
 Sechster Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -4962,7 +4399,7 @@ fällt sie in den Gesang.)
 
 
 Siebenter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -4985,7 +4422,7 @@ Der Eichwald brauset, die Wolken ziehn,
 
 
 Achter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -5151,7 +4588,7 @@ Gräfin.
 
 
 Neunter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -5189,30 +4626,8 @@ O! wenn ein Haus im Feuer soll vergehn,
 
 
 
-
-
-
-
-
-
-e-artnow
-
-
-
-div.sgc-1 {margin-left: 2em;}
-
-  a.sgc-2 {line-height: 1.2;}
-
-  div.sgc-5 {text-align:center}
-  h1.sgc-4 {text-align: center;}
-  h2.sgc-3 {margin:20% 0 0 0;text-align: center;}
-
-
-
-
-
 Vierter Aufzug
-Inhaltsverzeichnis
+
 
 
 
@@ -5222,7 +4637,7 @@ Scene: Ein großer, festlich erleuchteter Saal, in der Mitte desselben und nach 
 
 
 Erster Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -5295,7 +4710,7 @@ Isolani (Max fortziehend). Komm’ Er, komm’ Er!
 
 
 Zweiter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -5323,7 +4738,7 @@ zum Schenktisch.)
 
 
 Dritter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -5358,7 +4773,7 @@ Terzky.
 
 
 Vierter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -5468,7 +4883,7 @@ Terzky. Wo ist der Kellermeister?
 
 
 Fünfter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -5654,7 +5069,7 @@ kommt vorwärts.)
 
 
 Sechster Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -5797,7 +5212,7 @@ er gedankenvoll hineinsieht.)
 
 
 Siebenter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -5940,31 +5355,8 @@ Kommandeurs gehalten. Unter allgemeinem Aufbruch fällt
 der Vorhang.)
 
 
-
-
-
-
-
-
-
-e-artnow
-
-
-
-div.sgc-1 {margin-left: 2em;}
-
-  a.sgc-2 {line-height: 1.2;}
-
-  div.sgc-5 {text-align:center}
-  h1.sgc-4 {text-align: center;}
-  h2.sgc-3 {margin:20% 0 0 0;text-align: center;}
-
-
-
-
-
 Fünfter Aufzug
-Inhaltsverzeichnis
+
 
 
 
@@ -5973,7 +5365,7 @@ Scene: Ein Zimmer in Piccolomini’s Wohnung. Es ist Nacht.
 
 
 Erster Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -6371,7 +5763,7 @@ Octavio.
 
 
 Zweiter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -6462,7 +5854,7 @@ Octavio.
 
 
 Dritter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -6539,283 +5931,12 @@ Max.
 
 (Indem er abgeht, fällt der Vorhang.) 
 
-
-
-
-
-
-
-
-
-Inhalt
-
-div.sgc-toc-title { font-size: 2em; font-face: bold; margin-bottom: 1em; text-align:center; }
-  div.sgc-toc-level-1 { margin-left: 0em; }
-  div.sgc-toc-level-2 { margin-left: 2em; }
-  div.sgc-toc-level-3 { margin-left: 2em; }
-  div.sgc-toc-level-4 { margin-left: 2em; }
-  div.sgc-toc-level-5 { margin-left: 2em; }
-  div.sgc-toc-level-6 { margin-left: 2em; }
-
-  a.sgc-2 {color: #0000FF;text-decoration: underline;}
-  h2.sgc-1 {text-align: left;}
-
-
-
-
-
 Wallensteins Tod
 Ein Trauerspiel in fünf Aufzügen
-Inhaltsverzeichnis
 
 
 
 Personen
-
-
-Erster Aufzug
-
-Erster Auftritt
-
-
-Zweiter Auftritt
-
-
-Dritter Auftritt
-
-
-Vierter Auftritt
-
-
-Fünfter Auftritt
-
-
-Sechster Auftritt
-
-
-Siebenter Auftritt
-
-
-
-
-
-
-Zweiter Aufzug
-
-Erster Auftritt
-
-
-Zweiter Auftritt
-
-
-Dritter Auftritt
-
-
-Vierter Auftritt
-
-
-Fünfter Auftritt
-
-
-Sechster Auftritt
-
-
-Siebenter Auftritt
-
-
-
-
-
-
-Dritter Aufzug
-
-Erster Auftritt
-
-
-Zweiter Auftritt
-
-
-Dritter Auftritt
-
-
-Vierter Auftritt
-
-
-Fünfter Auftritt
-
-
-Sechster Auftritt
-
-
-Siebenter Auftritt
-
-
-Achter Auftritt
-
-
-Neunter Auftritt
-
-
-Zehnter Auftritt
-
-
-Eilfter Auftritt
-
-
-Zwölfter Auftritt
-
-
-Dreizehnter Auftritt
-
-
-Vierzehnter Auftritt
-
-
-Fünfzehnter Auftritt
-
-
-Sechzehnter Auftritt
-
-
-Siebzehnter Auftritt
-
-
-Achtzehnter Auftritt
-
-
-Neunzehnter Auftritt
-
-
-Zwanzigster Auftritt
-
-
-Einundzwanzigster Auftritt
-
-
-Zweiundzwanzigster Auftritt
-
-
-Dreiundzwanzigster Auftritt
-
-
-
-
-
-
-Vierter Aufzug
-
-Erster Auftritt
-
-
-Zweiter Auftritt
-
-
-Dritter Auftritt
-
-
-Vierter Auftritt
-
-
-Fünfter Auftritt
-
-
-Sechster Auftritt
-
-
-Siebenter Auftritt
-
-
-Achter Auftritt
-
-
-Neunter Auftritt
-
-
-Zehnter Auftritt
-
-
-Eilfter Auftritt
-
-
-Zwölfter Auftritt
-
-
-Dreizehnter Auftritt
-
-
-Vierzehnter Auftritt
-
-
-
-
-
-
-Fünfter Aufzug
-
-Erster Auftritt
-
-
-Zweiter Auftritt
-
-
-Dritter Auftritt
-
-
-Vierter Auftritt
-
-
-Fünfter Auftritt
-
-
-Sechster Auftritt
-
-
-Siebenter Auftritt
-
-
-Achter Auftritt
-
-
-Neunter Auftritt
-
-
-Zehnter Auftritt
-
-
-Eilfter Auftritt
-
-
-Zwölfter Auftritt
-
-
-
-
-
-
-
-
-
-e-artnow
-
-
-
-div.sgc-1 {margin-left: 2em;}
-
-  a.sgc-2 {line-height: 1.2;}
-
-  div.sgc-5 {text-align:center}
-  h1.sgc-4 {text-align: center;}
-  h2.sgc-3 {margin:20% 0 0 0;text-align: center;}
-
-
-
-
-Personen
-Inhaltsverzeichnis
-
-
-
-
 
 Wallenstein.
 Octavio Piccolomini.
@@ -6845,33 +5966,8 @@ Dragoner. Bediente, Pagen, Volk.
 Die Szene ist in den ersten drei Aufzügen in Pilsen, in den letzten zwei in Eger.
 
 
-
-
-
-
-
-
-
-
-e-artnow
-
-
-
-div.sgc-1 {margin-left: 2em;}
-
-  a.sgc-2 {line-height: 1.2;}
-
-  div.sgc-5 {text-align:center}
-  h1.sgc-4 {text-align: center;}
-  h2.sgc-3 {margin:20% 0 0 0;text-align: center;}
-
-
-
-
-
-
 Erster Aufzug
-Inhaltsverzeichnis
+
 
 
 
@@ -6880,7 +5976,7 @@ Ein Zimmer, zu astrologischen Arbeiten eingerichtet und mit Sphären, Karten, Qu
 
 
 Erster Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -6951,7 +6047,7 @@ Wallenstein den Vorhang vor die Bilder.)
 
 
 Zweiter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -6983,7 +6079,7 @@ Terzky.
 
 
 Dritter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -7115,7 +6211,7 @@ Illo.
 
 
 Vierter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -7219,7 +6315,7 @@ Noch ist sie rein – noch! Das Verbrechen kam
 
 
 Fünfter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -7482,7 +6578,7 @@ Wrangel. Eh man überhaupt dran denkt,
 
 
 Sechster Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -7539,7 +6635,7 @@ Terzky.
 
 
 Siebenter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -7815,33 +6911,8 @@ Illo. Nun, gelobt sei Gott!
 
 (Indem er abgeht, fällt der Vorhang.)
 
-
-
-
-
-
-
-
-
-
-e-artnow
-
-
-
-div.sgc-1 {margin-left: 2em;}
-
-  a.sgc-2 {line-height: 1.2;}
-
-  div.sgc-5 {text-align:center}
-  h1.sgc-4 {text-align: center;}
-  h2.sgc-3 {margin:20% 0 0 0;text-align: center;}
-
-
-
-
-
 Zweiter Aufzug
-Inhaltsverzeichnis
+
 
 
 
@@ -7850,7 +6921,7 @@ Ein Zimmer.
 
 
 Erster Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -7892,7 +6963,7 @@ Octavio (zu seinem Sohn). Wir sprechen uns noch.
 
 
 Zweiter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -8095,7 +7166,7 @@ nach und steht in tiefe Gedanken verloren.)
 
 
 Dritter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -8261,7 +7332,7 @@ Wallenstein (bleibt stehen und kehr sich um).
 
 
 Vierter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -8294,7 +7365,7 @@ Zwar hoff’ ich, es bedarf nicht ihres Dienstes,
 
 
 Fünfter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -8429,7 +7500,7 @@ Isolani.
 
 
 Sechster Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -8659,7 +7730,7 @@ Buttler.
 
 
 Siebenter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -8804,31 +7875,8 @@ schweigend umfaßt, dann entfernen sie sich nach
 verschiedenen Seiten.)
 
 
-
-
-
-
-
-
-
-e-artnow
-
-
-
-div.sgc-1 {margin-left: 2em;}
-
-  a.sgc-2 {line-height: 1.2;}
-
-  div.sgc-5 {text-align:center}
-  h1.sgc-4 {text-align: center;}
-  h2.sgc-3 {margin:20% 0 0 0;text-align: center;}
-
-
-
-
-
 Dritter Aufzug
-Inhaltsverzeichnis
+
 
 
 
@@ -8837,7 +7885,7 @@ Saal bei der Herzogin von Friedland.
 
 
 Erster Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -8871,7 +7919,7 @@ Gräfin.
 
 
 Zweiter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -8994,7 +8042,7 @@ Gräfin. Faßt Euch.
 
 
 Dritter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -9099,7 +8147,7 @@ zurückzuhalten. Wallenstein erscheint, im Gespräch mit Illo.)
 
 
 Vierter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -9314,7 +8362,7 @@ Gräfin (seitwärts zum Herzog).
 
 
 Fünfter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -9346,7 +8394,7 @@ Terzky. Nicht? Du hast ihn nicht verschickt? Auch nicht
 
 
 Sechster Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -9431,7 +8479,7 @@ Herzogin.
 
 
 Siebenter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -9506,7 +8554,7 @@ Terzky.
 
 
 Achter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -9559,7 +8607,7 @@ Terzky.
 
 
 Neunter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -9602,7 +8650,7 @@ Wallenstein (richtet sich auf).
 
 
 Zehnter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -9721,7 +8769,7 @@ Wallenstein (nach einer Pause).
 
 
 Eilfter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -9745,31 +8793,8 @@ Nein! ich kann’s länger nicht – Wo sind sie? Alles
 Ich trüg’s nicht, so gesunken ihn zu sehn.
 
 
-
-
-
-
-
-
-
-e-artnow
-
-
-
-div.sgc-1 {margin-left: 2em;}
-
-  a.sgc-2 {line-height: 1.2;}
-
-  div.sgc-5 {text-align:center}
-  h1.sgc-4 {text-align: center;}
-  h2.sgc-3 {margin:20% 0 0 0;text-align: center;}
-
-
-
-
-
 Zwölfter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -9822,7 +8847,7 @@ Ein großer Saal beim Herzog von Friedland.
 
 
 Dreizehnter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -9875,7 +8900,7 @@ Muth, Freunde, Muth! Wir sind noch nicht zu Boden.
 
 
 Vierzehnter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -9899,7 +8924,7 @@ Davon erwart’ ich etwas. Gebet Acht,
 
 
 Fünfzehnter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -10113,7 +9138,7 @@ Wallenstein.
 
 
 Sechzehnter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -10159,7 +9184,7 @@ Das stürzt uns ins Verderben – Buttler! Buttler!
 
 
 Siebzehnter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -10237,7 +9262,7 @@ Thekla (hat den Blick nach der Thüre geheftet und ruft lebhaft).
 
 
 Achtzehnter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -10425,7 +9450,7 @@ Wallenstein. Pflicht, gegen wen? Wer bist du?
 
 
 Neunzehnter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -10476,7 +9501,7 @@ Wallenstein. Was bringst du, Terzky?
 
 
 Zwanzigster Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -10574,7 +9599,7 @@ Wallenstein.
 
 
 Einundzwanzigster Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -10704,7 +9729,7 @@ den Armen.)
 
 
 Zweiundzwanzigster Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -10734,7 +9759,7 @@ Terzky.
 
 
 Dreiundzwanzigster Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -10858,30 +9883,8 @@ unbeweglich. Thekla sinkt in ihrer Mutter Arme.
 Der Vorhang fällt.)
 
 
-
-
-
-
-
-
-e-artnow
-
-
-
-div.sgc-1 {margin-left: 2em;}
-
-  a.sgc-2 {line-height: 1.2;}
-
-  div.sgc-5 {text-align:center}
-  h1.sgc-4 {text-align: center;}
-  h2.sgc-3 {margin:20% 0 0 0;text-align: center;}
-
-
-
-
-
 Vierter Aufzug
-Inhaltsverzeichnis
+
 
 
 
@@ -10890,7 +9893,7 @@ In des Bürgermeisters Hause zu Eger.
 
 
 Erster Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -10920,7 +9923,7 @@ Er ist herein. Ihn führte sein Verhängniß.
 
 
 Zweiter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -11086,7 +10089,7 @@ Buttler.
 
 
 Dritter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -11197,7 +10200,7 @@ Wallenstein.
 
 
 Vierter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -11241,7 +10244,7 @@ Terzky. Wir werden’s alsbald hören,
 
 
 Fünfter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -11287,7 +10290,7 @@ Neubrunn. Sie will sterben.
 
 
 Sechster Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -11427,7 +10430,7 @@ Buttler.
 
 
 Siebenter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -11538,7 +10541,7 @@ Buttler. Zur rechen Zeit.
 
 
 Achter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -11653,7 +10656,7 @@ Gordon.
 
 
 Neunter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -11804,7 +10807,7 @@ Thekla.
 
 
 Zehnter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -11944,7 +10947,7 @@ wiederholt den Wink. Er geht ab.)
 
 
 Eilfter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -12065,7 +11068,7 @@ Neubrunn.
 
 
 Zwölfter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -12106,7 +11109,7 @@ Zeichen des Grauens auf.)
 
 
 Dreizehnter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -12147,7 +11150,7 @@ Thekla. Gott!
 
 
 Vierzehnter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -12176,31 +11179,8 @@ Thekla. Schlaf wird es
 fällt der Vorhang.)
 
 
-
-
-
-
-
-
-
-e-artnow
-
-
-
-div.sgc-1 {margin-left: 2em;}
-
-  a.sgc-2 {line-height: 1.2;}
-
-  div.sgc-5 {text-align:center}
-  h1.sgc-4 {text-align: center;}
-  h2.sgc-3 {margin:20% 0 0 0;text-align: center;}
-
-
-
-
-
 Fünfter Aufzug
-Inhaltsverzeichnis
+
 
 
 
@@ -12209,7 +11189,7 @@ Buttlers Zimmer.
 
 
 Erster Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -12245,7 +11225,7 @@ Geraldin. Gleich sind sie hier.
 
 
 Zweiter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -12534,7 +11514,7 @@ Deveroux.
 
 
 Dritter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -12737,7 +11717,7 @@ Gräfin.
 
 
 Vierter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -12861,7 +11841,7 @@ Wallenstein (lächelnd).
 
 
 Fünfter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -12992,7 +11972,7 @@ gramvoll an eine Säule.
 
 
 Sechster Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -13087,7 +12067,7 @@ Buttler. Ihr erinnert mich,
 
 
 Siebenter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -13135,7 +12115,7 @@ Dumpfe Stimmen – Waffengetöse – dann plötzlich tiefe Stille.)
 
 
 Achter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -13159,7 +12139,7 @@ Ihr Schlafgemach ist leer, und sie ist nirgends
 
 
 Neunter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -13207,7 +12187,7 @@ Gräfin (ahnungsvoll).
 
 
 Zehnter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -13257,7 +12237,7 @@ Hinter der Scene.
 
 
 Eilfter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -13329,7 +12309,7 @@ Ich wußte immer, was ich that, und so
 
 
 Zwölfter Auftritt
-Inhaltsverzeichnis
+
 
 
 

@@ -1,24 +1,3 @@
-
-
-
-
-Inhalt
-
-div.sgc-toc-title { font-size: 2em; font-face: bold; margin-bottom: 1em; text-align:center; }
-  div.sgc-toc-level-1 { margin-left: 0em; }
-  div.sgc-toc-level-2 { margin-left: 2em; }
-  div.sgc-toc-level-3 { margin-left: 2em; }
-  div.sgc-toc-level-4 { margin-left: 2em; }
-  div.sgc-toc-level-5 { margin-left: 2em; }
-  div.sgc-toc-level-6 { margin-left: 2em; }
-
-  a.sgc-2 {color: #0000FF;text-decoration: underline;}
-  h2.sgc-1 {text-align: left;}
-
-
-
-
-
 Die Verschwörung des Fiesco zu Genua
 Ein republikanisches Trauerspiel
 
@@ -57,35 +36,6 @@ Vierter Aufzug
 
 Fünfter Aufzug
 
-
-
-
-
-
-
-
-
-
-e-artnow
-
-
-
-div.sgc-1 {margin-left: 2em;}
-
-  a.sgc-2 {line-height: 1.2;}
-
-  div.sgc-5 {text-align:center}
-  h1.sgc-4 {text-align: center;}
-  h2.sgc-3 {margin:20% 0 0 0;text-align: center;}
-
-
-
-
-
-
-
-
-
 Vorrede
 Inhaltsverzeichnis
 
@@ -93,31 +43,6 @@ Inhaltsverzeichnis
 
 Die Geschichte dieser Verschwörung habe ich vorzüglich aus des Cardinals von RetzConjuration du Comte Jean Louis de Fiesque, der Histoire des Conjurations, Histoire de Gènes und Robertsons Geschichte Karls V. – dem dritten Theil – gezogen. Freiheiten, welche ich mir mit den Begebenheiten herausnahm, wird der Hamburgische Dramaturgist entschuldigen, wenn sie mir geglückt sind; sind sie das nicht, so will ich doch lieber meine Phantasieen als Facta verdorben haben. Die wahre Katastrophe des Komplotts, worin der Graf durch einen unglücklichen Zufall am Ziel seiner Wünsche zu Grunde geht, mußte durchaus verändert werden, denn die Natur des Dramas duldet den Finger des Ohngefährs oder der unmittelbaren Vorsehung nicht. Es sollte mich sehr wundern, warum noch kein tragischer Dichter in diesem Stoffe gearbeitet hat, wenn ich nicht Grund genug in eben dieser undramatischen Wendung fände. Höhere Geister sehen die zarten Spinneweben einer That durch die ganze Dehnung des Weltsystems laufen und vielleicht an die entlegensten Grenzen der Zukunft und Vergangenheit anhängen – wo der Mensch nichts, als das in freien Lüften schwebende Factum sieht. Aber der Künstler wählt für das kurze Gesicht der Menschheit, die er belehren will, nicht für die scharfsichtige Allmacht, von der er lernt.
 Ich habe in meinen Räubern das Opfer einer ausschweifenden Empfindung zum Vorwurf genommen. – Hier versuche ich das Gegentheil, ein Opfer der Kunst und Cabale. Aber so merkwürdig sich auch das unglückliche Project des Fiesco in der Geschichte gemacht hat, so leicht kann es doch diese Wirkung auf dem Schauplatz verfehlen. Wenn es wahr ist, daß nur Empfindung Empfindung weckt, so müßte, däucht mich, der politische Held in eben dem Grade kein Subject für die Bühne sein, in welchem er den Menschen hintenansetzen muß, um der politische Held zu sein. Es stand daher nicht bei mir, meiner Fabel jene lebendige Gluth einzuhauchen, welche durch das lautere Product der Begeisterung herrscht; aber die kalte, unfruchtbare Staatsaction aus dem menschlichen Herzen herauszuspinnen und eben dadurch an das menschliche Herz wieder anzuknüpfen – den Mann durch den staatsklugen Kopf zu verwickeln – und von der erfindrischen Intrigue Situationen für die Menschheit zu entlehnen – das stand bei mir. Mein Verhältniß mit der bürgerlichen Welt machte mich auch mit dem Herzen bekannter, als dem Kabinet, und vielleicht ist eben diese politische Schwäche zu einer poetischen Tugend geworden.
-
-
-
-
-
-
-
-
-
-e-artnow
-
-
-
-div.sgc-1 {margin-left: 2em;}
-
-  a.sgc-2 {line-height: 1.2;}
-
-  div.sgc-5 {text-align:center}
-  h1.sgc-4 {text-align: center;}
-  h2.sgc-3 {margin:20% 0 0 0;text-align: center;}
-
-
-
-
-
 
 Personen des Stücks
 Inhaltsverzeichnis
@@ -156,103 +81,11 @@ Mehrere Nobili, Bürger, Deutsche, Soldaten, Bediente, Diebe.
 
 Der Schauplatz Genua. – Die Zeit 1547.
 
-
-
-
-
-
-
-
-
-Inhalt
-
-div.sgc-toc-title { font-size: 2em; font-face: bold; margin-bottom: 1em; text-align:center; }
-  div.sgc-toc-level-1 { margin-left: 0em; }
-  div.sgc-toc-level-2 { margin-left: 2em; }
-  div.sgc-toc-level-3 { margin-left: 2em; }
-  div.sgc-toc-level-4 { margin-left: 2em; }
-  div.sgc-toc-level-5 { margin-left: 2em; }
-  div.sgc-toc-level-6 { margin-left: 2em; }
-
-  a.sgc-2 {color: #0000FF;text-decoration: underline;}
-  h2.sgc-1 {text-align: left;}
-
-
-
-
-
-
 Erster Aufzug
 Inhaltsverzeichnis
 
 Saal bei Fiesco
       Man hört in der Ferne eine Tanzmusik und den Tumult eines Balls.
-
-
-
-
-
-
-Erster Auftritt
-
-
-Zweiter Auftritt
-
-
-Dritter Auftritt
-
-
-Vierter Auftritt
-
-
-Fünfter Auftritt
-
-
-Sechster Auftritt
-
-
-Siebenter Auftritt
-
-
-Achter Auftritt
-
-
-Neunter Auftritt
-
-
-Zehnter Auftritt
-
-
-Eilfter Auftritt
-
-
-Zwölfter Auftritt
-
-
-Dreizehnter Auftritt
-
-
-
-
-
-
-
-e-artnow
-
-
-
-div.sgc-1 {margin-left: 2em;}
-
-  a.sgc-2 {line-height: 1.2;}
-
-  div.sgc-5 {text-align:center}
-  h1.sgc-4 {text-align: center;}
-  h2.sgc-3 {margin:20% 0 0 0;text-align: center;}
-
-
-
-
-
 
 
 Erster Auftritt
@@ -706,125 +539,8 @@ Verrina. Ich verstehe. Höret also, ich habe längst einen Maler im Solde, der s
 
 
 
-
-
-
-
-
-
-
-Inhalt
-
-div.sgc-toc-title { font-size: 2em; font-face: bold; margin-bottom: 1em; text-align:center; }
-  div.sgc-toc-level-1 { margin-left: 0em; }
-  div.sgc-toc-level-2 { margin-left: 2em; }
-  div.sgc-toc-level-3 { margin-left: 2em; }
-  div.sgc-toc-level-4 { margin-left: 2em; }
-  div.sgc-toc-level-5 { margin-left: 2em; }
-  div.sgc-toc-level-6 { margin-left: 2em; }
-
-  a.sgc-2 {color: #0000FF;text-decoration: underline;}
-  h2.sgc-1 {text-align: left;}
-
-
-
-
-
 Zweiter Aufzug
 Vorzimmer in Fiescos Palast.
-Inhaltsverzeichnis
-
-
-
-
-
-
-
-
-
-Erster Auftritt
-
-
-Zweiter Auftritt
-
-
-Dritter Auftritt
-
-
-Vierter Auftritt
-
-
-Fünfter Auftritt
-
-
-Sechster Auftritt
-
-
-Siebenter Auftritt
-
-
-Achter Auftritt
-
-
-Neunter Auftritt
-
-
-Zehnter Auftritt
-
-
-Eilfter Auftritt
-
-
-Zwölfter Auftritt
-
-
-Dreizehnter Auftritt
-
-
-Vierzehnter Auftritt
-
-
-Fünfzehnter Auftritt
-
-
-Sechzehnter Auftritt
-
-
-Siebzehnter Auftritt
-
-
-Achtzehnter Auftritt
-
-
-Neunzehnter Auftritt
-
-
-
-
-
-
-
-e-artnow
-
-
-
-div.sgc-1 {margin-left: 2em;}
-
-  a.sgc-2 {line-height: 1.2;}
-
-  div.sgc-5 {text-align:center}
-  h1.sgc-4 {text-align: center;}
-  h2.sgc-3 {margin:20% 0 0 0;text-align: center;}
-
-
-
-
-
-
-Erster Auftritt
-Inhaltsverzeichnis
-
-
 
 Leonore. Arabella.
 
@@ -1360,97 +1076,6 @@ Fiesco, der nachdenkend auf und nieder geht.
 Welch ein Aufruhr in meiner Brust! welche heimliche Flucht der Gedanken – Gleich verdächtigen Brüdern, die auf eine schwarze That ausgehen, auf den Zehen schleichen und ihr flammroth Gesicht furchtsam zu Boden schlagen, stehlen sich die üppigen Phantome an meiner Seele vorbei – Haltet! haltet! Laßt mich euch ins Angesicht leuchten – ein guter Gedanke stählet des Mannes Herz und zeigt sich heldenmäßig dem Tage. – Ha! ich kenne euch! – das ist die Liverei des ewigen Lügners – verschwindet! (Wieder Pause, darauf lebhafter.)Republikaner Fiesco? Herzog Fiesco? – Gemach – Hier ist der gähe Hinuntersturz, wo die Mark der Tugend sich schließt, sich scheiden Himmel und Hölle – Eben hier haben Helden gestrauchelt, und Helden sind gesunken, und die Welt belagert ihren Namen mit Flüchen – Eben hier haben Helden gezweifelt, und Helden sind still gestanden und Halbgötter geworden – (Rascher.) Daß sie mein sind, die Herzen von Genua? Daß von meinen Händen dahin, dorthin sich gängeln läßt das furchtbare Genua? – O über die schlaue Sünde, die einen Engel vor jeden Teufel stellt – Unglückselige Schwungsucht! uralte Buhlerei! Engel küßten an deinem Halse den Himmel hinweg, und der Tod sprang aus deinem kreißenden Bauche – (Sich schaudernd schüttelnd.) Engel fingst du mit Sirenentrillern von Unendlichkeit – Menschen angelst du mit Gold, Weibern und Kronen! (Nach einer nachdenkenden Pause, fest.) Ein Diadem erkämpfen ist groß. Es wegwerfen ist göttlich. (Entschlossen.) Geh unter, Tyrann! Sei frei, Genua, und ich (sanft geschmolzen) dein glücklichster Bürger!
 
 
-
-
-
-
-
-
-
-Inhalt
-
-div.sgc-toc-title { font-size: 2em; font-face: bold; margin-bottom: 1em; text-align:center; }
-  div.sgc-toc-level-1 { margin-left: 0em; }
-  div.sgc-toc-level-2 { margin-left: 2em; }
-  div.sgc-toc-level-3 { margin-left: 2em; }
-  div.sgc-toc-level-4 { margin-left: 2em; }
-  div.sgc-toc-level-5 { margin-left: 2em; }
-  div.sgc-toc-level-6 { margin-left: 2em; }
-
-  a.sgc-2 {color: #0000FF;text-decoration: underline;}
-  h2.sgc-1 {text-align: left;}
-
-
-
-
-
-Dritter Aufzug
-Furchtbare Wildniß.
-Inhaltsverzeichnis
-
-
-
-
-Erster Auftritt
-
-
-Zweiter Auftritt
-
-
-Dritter Auftritt
-
-
-Vierter Auftritt
-
-
-Fünfter Auftritt
-
-
-Sechster Auftritt
-
-
-Siebenter Auftritt
-
-
-Achter Auftritt
-
-
-Neunter Auftritt
-
-
-Zehnter Auftritt
-
-
-Eilfter Auftritt
-
-
-
-
-
-
-
-e-artnow
-
-
-
-div.sgc-1 {margin-left: 2em;}
-
-  a.sgc-2 {line-height: 1.2;}
-
-  div.sgc-5 {text-align:center}
-  h1.sgc-4 {text-align: center;}
-  h2.sgc-3 {margin:20% 0 0 0;text-align: center;}
-
-
-
-
-
-
-Erster Auftritt
-Inhaltsverzeichnis
-
-
-
 Verrina. Bourgognino kommen durch die Nacht.
 
 
@@ -1783,110 +1408,8 @@ Fiesco (tückisch). O, es ist zum Todtlachen, Gräfin!
 
 
 
-
-
-
-
-
-
-Inhalt
-
-div.sgc-toc-title { font-size: 2em; font-face: bold; margin-bottom: 1em; text-align:center; }
-  div.sgc-toc-level-1 { margin-left: 0em; }
-  div.sgc-toc-level-2 { margin-left: 2em; }
-  div.sgc-toc-level-3 { margin-left: 2em; }
-  div.sgc-toc-level-4 { margin-left: 2em; }
-  div.sgc-toc-level-5 { margin-left: 2em; }
-  div.sgc-toc-level-6 { margin-left: 2em; }
-
-  a.sgc-2 {color: #0000FF;text-decoration: underline;}
-  h2.sgc-1 {text-align: left;}
-
-
-
-
-
 Vierter Aufzug
 Es ist Nacht. Schloßhof des Fiesco. Die Laternen werden angezündet. Waffen hereingetragen. Ein Schloßflügel ist erleuchtet.
-Inhaltsverzeichnis
-
-
-
-
-
-
-Erster Auftritt
-
-
-Zweiter Auftritt
-
-
-Dritter Auftritt
-
-
-Vierter Auftritt
-
-
-Fünfter Auftritt
-
-
-Sechster Auftritt
-
-
-Siebenter Auftritt
-
-
-Achter Auftritt
-
-
-Neunter Auftritt
-
-
-Zehnter Auftritt
-
-
-Eilfter Auftritt
-
-
-Zwölfter Auftritt
-
-
-Dreizehnter Auftritt
-
-
-Vierzehnter Auftritt
-
-
-Fünfzehnter Auftritt
-
-
-
-
-
-
-
-
-
-
-
-
-e-artnow
-
-
-
-div.sgc-1 {margin-left: 2em;}
-
-  a.sgc-2 {line-height: 1.2;}
-
-  div.sgc-5 {text-align:center}
-  h1.sgc-4 {text-align: center;}
-  h2.sgc-3 {margin:20% 0 0 0;text-align: center;}
-
-
-
-
-
-
 Erster Auftritt
 Inhaltsverzeichnis
 
@@ -2264,122 +1787,7 @@ Inhaltsverzeichnis
 Verschworne. Die Zeit ist da!
 Fiesco (zu Leonoren, fest). Lebe wohl! Ewig – oder Genua liegt morgen zu deinen Füßen. (Will fortstürzen.) Bourgognino (schreit). Die Gräfin sinkt um. (Leonore in Ohnmacht. Alle springen hin, sie zu halten. Fiesco vor ihr niedergeworfen.) Fiesco (mit schneidendem Ton). Leonore! Rettet! um Gotteswillen! Rettet! (Rosa, Bella kommen, sie zurecht zu bringen.) Sie schlägt die Augen auf – (Er springt entschlossen in die Höh’.) Jetzt kommt – sie dem Doria zuzudrücken. (Verschworne stürzen zum Saal hinaus. Vorhang fällt.)
 
-
-
-
-
-
-
-
-
-Inhalt
-
-div.sgc-toc-title { font-size: 2em; font-face: bold; margin-bottom: 1em; text-align:center; }
-  div.sgc-toc-level-1 { margin-left: 0em; }
-  div.sgc-toc-level-2 { margin-left: 2em; }
-  div.sgc-toc-level-3 { margin-left: 2em; }
-  div.sgc-toc-level-4 { margin-left: 2em; }
-  div.sgc-toc-level-5 { margin-left: 2em; }
-  div.sgc-toc-level-6 { margin-left: 2em; }
-
-  a.sgc-2 {color: #0000FF;text-decoration: underline;}
-  h2.sgc-1 {text-align: left;}
-
-
-
-
-
-Fünfter Aufzug
-Inhaltsverzeichnis
-
-
-
-
-
-Erster Auftritt
-
-
-Zweiter Auftritt
-
-
-Dritter Auftritt
-
-
-Vierter Auftritt
-
-
-Fünfter Auftritt
-
-
-Sechster Auftritt
-
-
-Siebenter Auftritt
-
-
-Achter Auftritt
-
-
-Neunter Auftritt
-
-
-Zehnter Auftritt
-
-
-Eilfter Auftritt
-
-
-Zwölfter Auftritt
-
-
-Dreizehnter Auftritt
-
-
-Vierzehnter Auftritt
-
-
-Fünfzehnter Auftritt
-
-
-Sechzehnter Auftritt
-
-
-Siebzehnter Auftritt
-
-
-
 Nach Mitternacht. – Große Straße in Genua – Hie und da leuchten Lampen an einigen Häusern, die nach und nach auslöschen – Im Hintergrund der Bühne sieht man das Thomasthor, das noch geschlossen ist. In perspectivischer Ferne die See. – Einige Menschen gehen mit Handlaternen über den Platz, darauf die Runde und Patrouille – Alles ist ruhig. Nur das Meer wallt etwas ungestüm.
-
-
-
-
-
-
-
-
-
-
-e-artnow
-
-
-
-div.sgc-1 {margin-left: 2em;}
-
-  a.sgc-2 {line-height: 1.2;}
-
-  div.sgc-5 {text-align:center}
-  h1.sgc-4 {text-align: center;}
-  h2.sgc-3 {margin:20% 0 0 0;text-align: center;}
-
-
-
-
-
-
-Erster Auftritt
-Inhaltsverzeichnis
-
-
 
 Fiesco kommt gewaffnet und bleibt vor dem Palast des Andreas Doria stehen. Darauf Andreas.
 
@@ -2783,8 +2191,3 @@ Verrina. Ertränkt, wenn das hübscher lautet – Ich geh’ zum Andreas.
 
 
 (Alle bleiben in starren Gruppen stehn. Der Vorhang fällt.) 
-
-
-
-
-

@@ -1,289 +1,9 @@
 
-
-
-
-Inhalt
-
-div.sgc-toc-title { font-size: 2em; font-face: bold; margin-bottom: 1em; text-align:center; }
-  div.sgc-toc-level-1 { margin-left: 0em; }
-  div.sgc-toc-level-2 { margin-left: 2em; }
-  div.sgc-toc-level-3 { margin-left: 2em; }
-  div.sgc-toc-level-4 { margin-left: 2em; }
-  div.sgc-toc-level-5 { margin-left: 2em; }
-  div.sgc-toc-level-6 { margin-left: 2em; }
-
-  a.sgc-2 {color: #0000FF;text-decoration: underline;}
-  h2.sgc-1 {text-align: left;}
-
-
-
-
 Don Carlos, Infant von Spanien
 Ein dramatisches Gedicht
-Inhaltsverzeichnis
-
-
-
-
 
 Personen
 
-
-Erster Akt
-
-Erster Auftritt
-
-
-Zweiter Auftritt
-
-
-Dritter Auftritt
-
-
-Vierter Auftritt
-
-
-Fünfter Auftritt
-
-
-Sechster Auftritt
-
-
-Siebenter Auftritt
-
-
-Achter Auftritt
-
-
-Neunter Auftritt
-
-
-
-
-
-
-Zweiter Akt
-
-Erster Auftritt
-
-
-Zweiter Auftritt
-
-
-Dritter Auftritt
-
-
-Vierter Auftritt
-
-
-Fünfter Auftritt
-
-
-Sechster Auftritt
-
-
-Siebenter Auftritt
-
-
-Achter Auftritt
-
-
-Neunter Auftritt
-
-
-Zehnter Auftritt
-
-
-Eilfter Auftritt
-
-
-Zwölfter Auftritt
-
-
-Dreizehnter Auftritt
-
-
-Vierzehnter Auftritt
-
-
-Fünfzehnter Auftritt
-
-
-
-
-
-
-Dritter Akt
-
-Erster Auftritt
-
-
-Zweiter Auftritt
-
-
-Dritter Auftritt
-
-
-Vierter Auftritt
-
-
-Fünfter Auftritt
-
-
-Sechster Auftritt
-
-
-Siebenter Auftritt
-
-
-Achter Auftritt
-
-
-Neunter Auftritt
-
-
-Zehnter Auftritt
-
-
-
-
-
-
-Vierter Akt
-
-Erster Auftritt
-
-
-Zweiter Auftritt
-
-
-Dritter Auftritt
-
-
-Vierter Auftritt
-
-
-Fünfter Auftritt
-
-
-Sechster Auftritt
-
-
-Siebenter Auftritt
-
-
-Achter Auftritt
-
-
-Neunter Auftritt
-
-
-Zehnter Auftritt
-
-
-Eilfter Auftritt
-
-
-Zwölfter Auftritt
-
-
-Dreizehnter Auftritt
-
-
-Vierzehnter Auftritt
-
-
-Fünfzehnter Auftritt
-
-
-Sechzehnter Auftritt
-
-
-Siebzehnter Auftritt
-
-
-Achtzehnter Auftritt
-
-
-Neunzehnter Auftritt
-
-
-Zwanzigster Auftritt
-
-
-Einundzwanzigster Auftritt
-
-
-Zweiundzwanzigster Auftritt
-
-
-Dreiundzwanzigster Auftritt
-
-
-Vierundzwanzigster Auftritt
-
-
-
-
-
-
-Fünfter Akt
-
-Erster Auftritt
-
-
-Zweiter Auftritt
-
-
-Dritter Auftritt
-
-
-Vierter Auftritt
-
-
-Fünfter Auftritt
-
-
-Sechster Auftritt
-
-
-Siebenter Auftritt
-
-
-Achter Auftritt
-
-
-Neunter Auftritt
-
-
-Zehnter Auftritt
-
-
-Letzter Auftritt
-
-
-
-
-
-
-
-
-e-artnow
-
-
-
-div.sgc-1 {margin-left: 2em;}
-
-  a.sgc-2 {line-height: 1.2;}
-
-  div.sgc-5 {text-align:center}
-  h1.sgc-4 {text-align: center;}
-  h2.sgc-3 {margin:20% 0 0 0;text-align: center;}
-
-
-
-Personen
-Inhaltsverzeichnis
 
 
   Philipp II, König von Spanien.
@@ -308,38 +28,12 @@ Granden von Spanien:
   Don Ludwig Mercado, Leibarzt der Königin.
 
 
-
-
-
-
-e-artnow
-
-
-
-div.sgc-1 {margin-left: 2em;}
-
-  a.sgc-2 {line-height: 1.2;}
-
-  div.sgc-5 {text-align:center}
-  h1.sgc-4 {text-align: center;}
-  h2.sgc-3 {margin:20% 0 0 0;text-align: center;}
-
-
-
-
-
-
-Erster Akt
-Inhaltsverzeichnis
-
-
-
 Der königliche Garten in Aranjuez.
 
 
 
 Erster Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -501,7 +195,7 @@ Carlos. Schon gut. Ich werde folgen.
 
 
 Zweiter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -803,7 +497,7 @@ Eine einfache ländliche Gegend, von einer Allee durchschnitten, vom Landhause d
 
 
 Dritter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -942,7 +636,7 @@ Königin. Halten Sie
 
 
 Vierter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -1147,7 +841,7 @@ Marquis. Hier ist er schon.
 
 
 Fünfter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -1381,7 +1075,7 @@ Königin. Und diese Thränen aus den Niederlanden.
 
 
 Sechster Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -1511,7 +1205,7 @@ König. Graf von Lerma,
 
 
 Siebenter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -1546,7 +1240,7 @@ Marquis. Jetzt endlich hör’ ich meinen Carlos wieder,
 
 
 Achter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -1575,7 +1269,7 @@ Carlos. Nichts, Chevalier. Ich wünsche Ihnen Glück
 
 
 Neunter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -1684,33 +1378,8 @@ Carlos. Jetzt zum König.
 
 (Sie gehen ab.)
 
-
-
-
-
-
-
-
-
-
-e-artnow
-
-
-
-div.sgc-1 {margin-left: 2em;}
-
-  a.sgc-2 {line-height: 1.2;}
-
-  div.sgc-5 {text-align:center}
-  h1.sgc-4 {text-align: center;}
-  h2.sgc-3 {margin:20% 0 0 0;text-align: center;}
-
-
-
-
-
 Zweiter Akt
-Inhaltsverzeichnis
+
 
 
 
@@ -1719,7 +1388,7 @@ Im königlichen Palast zu Madrid.
 
 
 Erster Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -1772,7 +1441,7 @@ Nein, ins Kabinet,
 
 
 Zweiter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -2016,7 +1685,7 @@ Carlos. Mein Geschäft ist aus.
 
 
 Dritter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -2061,7 +1730,7 @@ Philipp. Sagt an:
 
 
 Vierter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -2190,7 +1859,7 @@ Page. Prinz,
 
 
 Fünfter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -2346,7 +2015,7 @@ Alba (zieht). Wenn es
 
 
 Sechster Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -2377,7 +2046,7 @@ Ein Kabinet der Prinzessin von Eboli.
 
 
 Siebenter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -2471,32 +2140,8 @@ Page. Der Herzog, fürcht’ ich – Prinzessin. Wiederum der Herzog?
         Er soll mich überraschen. – Mein Gesang
         Soll ihm das Zeichen geben. –
 
-
-
-
-
-
-
-
-
-e-artnow
-
-
-
-div.sgc-1 {margin-left: 2em;}
-
-  a.sgc-2 {line-height: 1.2;}
-
-  div.sgc-5 {text-align:center}
-  h1.sgc-4 {text-align: center;}
-  h2.sgc-3 {margin:20% 0 0 0;text-align: center;}
-
-
-
-
-
 Achter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -2960,7 +2605,7 @@ Prinzessin (wirft sich ihm in den Weg).
 
 
 Neunter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -3048,7 +2693,7 @@ Ein Zimmer im königlichen Palaste.
 
 
 Zehnter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -3208,7 +2853,7 @@ Domingo. Schon recht. Ich rufe Sie.
 
 
 Eilfter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -3309,7 +2954,7 @@ Prinzessin (erstaunt). Was wird das?
 
 
 Zwölfter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -3414,7 +3059,7 @@ Prinzessin. Horch!
 
 
 Dreizehnter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -3435,7 +3080,7 @@ In einem Karthäuserkloster.
 
 
 Vierzehnter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -3503,7 +3148,7 @@ Prior. Zu was Ende?
 
 
 Fünfzehnter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -3783,31 +3428,8 @@ Marquis (nach einigem Stillschweigen). Auch das!
 
 (Sie gehen ab zu verschiedenen Thüren.)
 
-
-
-
-
-
-
-
-e-artnow
-
-
-
-div.sgc-1 {margin-left: 2em;}
-
-  a.sgc-2 {line-height: 1.2;}
-
-  div.sgc-5 {text-align:center}
-  h1.sgc-4 {text-align: center;}
-  h2.sgc-3 {margin:20% 0 0 0;text-align: center;}
-
-
-
-
-
 Dritter Akt
-Inhaltsverzeichnis
+
 
 
 
@@ -3816,7 +3438,7 @@ Das Schlafzimmer des Königs.
 
 
 Erster Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -3852,7 +3474,7 @@ Schläft’s irgend
 
 
 Zweiter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -3949,7 +3571,7 @@ Lerma. Schon hör’ ich ihn im Vorsaal –
 
 
 Dritter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -4126,7 +3748,7 @@ Mich ein Verbrechen hättet fürchten lassen,
 
 
 Vierter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -4307,7 +3929,7 @@ König (dreht sich erstaunt um und sieht den Herzog eine Zeit lang starr an).
 
 
 Fünfter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -4378,7 +4000,7 @@ Der Audienzsaal.
 
 
 Sechster Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -4419,7 +4041,7 @@ Medina Sidonia. Ich verlor ihm eine Flotte,
 
 
 Siebenter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -4552,7 +4174,7 @@ Das Kabinet des Königs.
 
 
 Achter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -4579,7 +4201,7 @@ Alba. Ich übergebe
 
 
 Neunter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -4620,7 +4242,7 @@ Wohl gesprochen, Herzog. Nützen
 
 
 Zehnter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -5103,31 +4725,8 @@ Der Ritter
         Wird künftig ungemeldet vorgelassen.
 
 
-
-
-
-
-
-
-
-e-artnow
-
-
-
-div.sgc-1 {margin-left: 2em;}
-
-  a.sgc-2 {line-height: 1.2;}
-
-  div.sgc-5 {text-align:center}
-  h1.sgc-4 {text-align: center;}
-  h2.sgc-3 {margin:20% 0 0 0;text-align: center;}
-
-
-
-
-
 Vierter Akt
-Inhaltsverzeichnis
+
 
 
 
@@ -5136,7 +4735,7 @@ Saal bei der Königin.
 
 
 Erster Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -5188,7 +4787,7 @@ Königin. Ich
 
 
 Zweiter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -5209,7 +4808,7 @@ Marquis. Mein Auftrag lautet
 
 
 Dritter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -5410,7 +5009,7 @@ Galerie.
 
 
 Vierter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -5496,7 +5095,7 @@ Lerma. Ist er
 
 
 Fünfter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -5628,7 +5227,7 @@ Das kann mein Vater nicht?
 
 
 Sechster Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -5666,7 +5265,7 @@ Kabinet des Königs.
 
 
 Siebenter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -5696,7 +5295,7 @@ In diesem Abgrund geh’ ich unter.
 
 
 Achter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -5720,7 +5319,7 @@ Lerma. Hier
 
 
 Neunter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -5918,7 +5517,7 @@ Königin. Ich kann nicht mehr – das ist zu viel –
 
 
 Zehnter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -5953,7 +5552,7 @@ Marquis von Posa (noch außerhalb der Scene).
 
 
 Eilfter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -5968,32 +5567,8 @@ König (bei dieser Stimme lebhaft auffahrend und dem Marquis einige Schritte ent
 
 (Alba und Domingo sehen einander mit stummer Verwunderung an und gehen.)
 
-
-
-
-
-
-
-
-
-e-artnow
-
-
-
-div.sgc-1 {margin-left: 2em;}
-
-  a.sgc-2 {line-height: 1.2;}
-
-  div.sgc-5 {text-align:center}
-  h1.sgc-4 {text-align: center;}
-  h2.sgc-3 {margin:20% 0 0 0;text-align: center;}
-
-
-
-
-
 Zwölfter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -6143,7 +5718,7 @@ Galerie.
 
 
 Dreizehnter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -6265,7 +5840,7 @@ Lerma (folgt ihm und ruft ihm nach). Prinz! Wohin? (Geht ab.)
 
 
 Vierzehnter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -6365,7 +5940,7 @@ Königin. Dann
 
 
 Fünfzehnter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -6431,7 +6006,7 @@ Carlos. Sei größer,
 
 
 Sechzehnter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -6481,7 +6056,7 @@ Ich werfe
 
 
 Siebzehnter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -6529,7 +6104,7 @@ Ein Zimmer der Königin.
 
 
 Achtzehnter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -6549,7 +6124,7 @@ Was für ein Auflauf im Palaste? Jedes
 
 
 Neunzehnter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -6647,7 +6222,7 @@ Eboli. Der König –
 
 
 Zwanzigster Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -6680,7 +6255,7 @@ Olivarez (umarmt sie mit abgewandtem Gesicht). Leben Sie glücklich!
 
 
 Einundzwanzigster Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -6943,7 +6518,7 @@ Vorzimmer des Königs.
 
 
 Zweiundzwanzigster Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -7033,7 +6608,7 @@ Domingo (verläßt die Thüre). Mir ist so feierlich,
 
 
 Dreiundzwanzigster Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -7097,7 +6672,7 @@ Alle (zugleich, mit betretnem Erstaunen). Der König hat geweint?
 
 
 Vierundzwanzigster Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -7140,29 +6715,8 @@ Alba (zu Domingo und den übrigen Granden). Jetzt hinein
 
 
 
-
-
-
-
-
-e-artnow
-
-
-
-div.sgc-1 {margin-left: 2em;}
-
-  a.sgc-2 {line-height: 1.2;}
-
-  div.sgc-5 {text-align:center}
-  h1.sgc-4 {text-align: center;}
-  h2.sgc-3 {margin:20% 0 0 0;text-align: center;}
-
-
-
-
-
 Fünfter Akt
-Inhaltsverzeichnis
+
 
 
 
@@ -7171,7 +6725,7 @@ Ein Zimmer im königlichen Palast, durch eine eiserne Gitterthüre von einem gro
 
 
 Erster Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -7278,7 +6832,7 @@ Marquis (geht nach der Thüre). Wer kommt?
 
 
 Zweiter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -7334,7 +6888,7 @@ Carlos. Ich bleibe hier,
 
 
 Dritter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -7559,7 +7113,7 @@ Marquis (mit brechender Stimme). Es ist geschwind – der König –
 
 
 Vierter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -7751,7 +7305,7 @@ Lerma. Man dringt herauf. Man kommt.
 
 
 Fünfter Auftritt
-Inhaltsverzeichnis
+
 
 
 

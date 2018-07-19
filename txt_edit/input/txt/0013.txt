@@ -1,129 +1,8 @@
-
-
-
-
-Inhalt
-
-div.sgc-toc-title { font-size: 2em; font-face: bold; margin-bottom: 1em; text-align:center; }
-  div.sgc-toc-level-1 { margin-left: 0em; }
-  div.sgc-toc-level-2 { margin-left: 2em; }
-  div.sgc-toc-level-3 { margin-left: 2em; }
-  div.sgc-toc-level-4 { margin-left: 2em; }
-  div.sgc-toc-level-5 { margin-left: 2em; }
-  div.sgc-toc-level-6 { margin-left: 2em; }
-
-  a.sgc-2 {color: #0000FF;text-decoration: underline;}
-  h2.sgc-1 {text-align: left;}
-
-
-
-
-
 Wilhelm Tell
-Inhaltsverzeichnis
-
-
-
 
 
 Personen
 
-
-Erster Aufzug
-
-Erste Szene
-
-
-Zweite Szene
-
-
-Dritte Szene
-
-
-Vierte Szene
-
-
-
-
-
-
-Zweiter Aufzug
-
-Erste Szene
-
-
-Zweite Szene
-
-
-
-
-
-
-Dritter Aufzug
-
-Erste Szene
-
-
-Zweite Szene
-
-
-Dritte Szene
-
-
-
-
-
-
-Vierter Aufzug
-
-Erste Szene
-
-
-Zweite Szene
-
-
-Dritte Szene
-
-
-
-
-
-
-Fünfter Aufzug
-
-Erste Szene
-
-
-Zweite Szene
-
-
-Letzten Szene
-
-
-
-
-
-
-
-
-
-e-artnow
-
-
-
-div.sgc-1 {margin-left: 2em;}
-
-  a.sgc-2 {line-height: 1.2;}
-
-  div.sgc-5 {text-align:center}
-  h1.sgc-4 {text-align: center;}
-  h2.sgc-3 {margin:20% 0 0 0;text-align: center;}
-
-
-
-
-Personen
-Inhaltsverzeichnis
 
 
 
@@ -176,36 +55,14 @@ Hermann Gessler, Reichsvogt in Schwyz und Uri
     GesslerischeundLandenbergische Reiter
 VieleLandleute, MännerundWeiberaus den Waldstätten
 
-
-
-
-
-
-
-e-artnow
-
-
-
-div.sgc-1 {margin-left: 2em;}
-
-  a.sgc-2 {line-height: 1.2;}
-
-  div.sgc-5 {text-align:center}
-  h1.sgc-4 {text-align: center;}
-  h2.sgc-3 {margin:20% 0 0 0;text-align: center;}
-
-
-
-
-
 Erster Aufzug
-Inhaltsverzeichnis
+
 
 
 
 
 Erste Szene
-Inhaltsverzeichnis
+
 
 
 
@@ -555,7 +412,7 @@ Ruodiringt die Hände:
 
 
 Zweite Szene
-Inhaltsverzeichnis
+
 
 
 
@@ -796,7 +653,7 @@ Gehen auf ihn zum, die Szene verwandelt sich.
 
 
 Dritte Szene
-Inhaltsverzeichnis
+
 
 
 
@@ -1043,7 +900,7 @@ Geht ab.
 
 
 Vierte Szene
-Inhaltsverzeichnis
+
 
 
 
@@ -1456,37 +1313,14 @@ Melchtal:
 Sie gehen auseinander.
 
 
-
-
-
-
-
-
-
-e-artnow
-
-
-
-div.sgc-1 {margin-left: 2em;}
-
-  a.sgc-2 {line-height: 1.2;}
-
-  div.sgc-5 {text-align:center}
-  h1.sgc-4 {text-align: center;}
-  h2.sgc-3 {margin:20% 0 0 0;text-align: center;}
-
-
-
-
-
 Zweiter Aufzug
-Inhaltsverzeichnis
+
 
 
 
 
 Erste Szene
-Inhaltsverzeichnis
+
 
 
 
@@ -1773,7 +1607,7 @@ Geht ab.
 
 
 Zweite Szene
-Inhaltsverzeichnis
+
 
 
 
@@ -2550,38 +2384,10 @@ Stauffacher:
 
 Indem sie zu drei verschiednen Seiten in grösster Ruhe abgehen, fällt das Orchester mit einem prachtvollen Schwung ein, die leere Szene bleibt noch eine Zeitlang offen und zeigt das Schauspiel der aufgehenden Sonne über den Eisgebirgen.
 
-
-
-
-
-
-
-
-
-e-artnow
-
-
-
-div.sgc-1 {margin-left: 2em;}
-
-  a.sgc-2 {line-height: 1.2;}
-
-  div.sgc-5 {text-align:center}
-  h1.sgc-4 {text-align: center;}
-  h2.sgc-3 {margin:20% 0 0 0;text-align: center;}
-
-
-
-
-
 Dritter Aufzug
-Inhaltsverzeichnis
-
-
-
 
 Erste Szene
-Inhaltsverzeichnis
+
 
 
 
@@ -2822,7 +2628,7 @@ Sie geht an das Hoftor und folgt den Abgehenden lange mit den Augen.
 
 
 Zweite Szene
-Inhaltsverzeichnis
+
 
 
 
@@ -3027,7 +2833,7 @@ Gehen ab.
 
 
 Dritte Szene
-Inhaltsverzeichnis
+
 
 
 
@@ -3734,37 +3540,14 @@ Tellhebt den Knaben mit Inbrunst an seine Brust:
 Reisst sich schnell los und folgt den Waffenknechten.
 
 
-
-
-
-
-
-
-
-e-artnow
-
-
-
-div.sgc-1 {margin-left: 2em;}
-
-  a.sgc-2 {line-height: 1.2;}
-
-  div.sgc-5 {text-align:center}
-  h1.sgc-4 {text-align: center;}
-  h2.sgc-3 {margin:20% 0 0 0;text-align: center;}
-
-
-
-
-
 Vierter Aufzug
-Inhaltsverzeichnis
+
 
 
 
 
 Erste Szene
-Inhaltsverzeichnis
+
 
 
 
@@ -4091,7 +3874,7 @@ Geht ab.
 
 
 Zweite Szene
-Inhaltsverzeichnis
+
 
 
 
@@ -4517,7 +4300,7 @@ Gehen ab.
 
 
 Dritte Szene
-Inhaltsverzeichnis
+
 
 
 
@@ -5048,37 +4831,11 @@ Barmherzige Brüderschließen einen Halbkreis um den Toten und singen in tiefem 
 Indem die letzten Zeilen wiederholt werden, fällt der Vorhang.
 
 
-
-
-
-
-
-
-
-e-artnow
-
-
-
-div.sgc-1 {margin-left: 2em;}
-
-  a.sgc-2 {line-height: 1.2;}
-
-  div.sgc-5 {text-align:center}
-  h1.sgc-4 {text-align: center;}
-  h2.sgc-3 {margin:20% 0 0 0;text-align: center;}
-
-
-
-
-
 Fünfter Aufzug
-Inhaltsverzeichnis
-
-
 
 
 Erste Szene
-Inhaltsverzeichnis
+
 
 
 
@@ -5512,7 +5269,7 @@ Alle gehen ab.
 
 
 Zweite Szene
-Inhaltsverzeichnis
+
 
 
 
@@ -5891,7 +5648,7 @@ Parricida geht auf den Tell zu mit einer raschen Bewegung, dieser aber bedeutet 
 
 
 Letzten Szene
-Inhaltsverzeichnis
+
 
 
 
@@ -5922,8 +5679,3 @@ Rudenz:
 
 
 Indem die Musik von neuem rasch einfällt, fällt der Vorhang.
-
-
-
-
-

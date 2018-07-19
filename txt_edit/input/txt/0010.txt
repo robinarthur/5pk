@@ -1,246 +1,5 @@
-
-
-
-
-Inhalt
-
-div.sgc-toc-title { font-size: 2em; font-face: bold; margin-bottom: 1em; text-align:center; }
-  div.sgc-toc-level-1 { margin-left: 0em; }
-  div.sgc-toc-level-2 { margin-left: 2em; }
-  div.sgc-toc-level-3 { margin-left: 2em; }
-  div.sgc-toc-level-4 { margin-left: 2em; }
-  div.sgc-toc-level-5 { margin-left: 2em; }
-  div.sgc-toc-level-6 { margin-left: 2em; }
-
-  a.sgc-2 {color: #0000FF;text-decoration: underline;}
-  h2.sgc-1 {text-align: left;}
-
-
-
-
 Maria Stuart
 Trauerspiel in fünf Aufzügen
-Inhaltsverzeichnis
-
-
-
-
-
-Personen
-
-
-Erster Aufzug
-
-Erster Auftritt
-
-
-Zweiter Auftritt
-
-
-Dritter Auftritt
-
-
-Vierter Auftritt
-
-
-Fünfter Auftritt
-
-
-Sechster Auftritt
-
-
-Siebenter Auftritt
-
-
-Achter Auftritt
-
-
-
-
-
-
-Zweiter Aufzug
-
-Erster Auftritt
-
-
-Zweiter Auftritt
-
-
-Dritter Auftritt
-
-
-Vierter Auftritt
-
-
-Fünfter Auftritt
-
-
-Sechster Auftritt
-
-
-Siebenter Auftritt
-
-
-Achter Auftritt
-
-
-Neunter Auftritt
-
-
-
-
-
-
-Dritter Aufzug
-
-Erster Auftritt
-
-
-Zweiter Auftritt
-
-
-Dritter Auftritt
-
-
-Vierter Auftritt
-
-
-Fünfter Auftritt
-
-
-Sechster Auftritt
-
-
-Siebenter Auftritt
-
-
-Achter Auftritt
-
-
-
-
-
-
-Vierte Aufzug
-
-Erster Auftritt
-
-
-Zweiter Auftritt
-
-
-Dritter Auftritt
-
-
-Vierter Auftritt
-
-
-Fünfter Auftritt
-
-
-Sechster Auftritt
-
-
-Siebenter Auftritt
-
-
-Achter Auftritt
-
-
-Neunter Auftritt
-
-
-Zehnter Auftritt
-
-
-Elfter Auftritt
-
-
-Zwölfter Auftritt
-
-
-
-
-
-
-Fünfter Aufzug
-
-Erster Auftritt
-
-
-Zweiter Auftritt
-
-
-Dritter Auftritt
-
-
-Vierter Auftritt
-
-
-Fünfter Auftritt
-
-
-Sechster Auftritt
-
-
-Siebenter Auftritt
-
-
-Achter Auftritt
-
-
-Neunter Auftritt
-
-
-Zehnter Auftritt
-
-
-Elfter Auftritt
-
-
-Zwölfter Auftritt
-
-
-Dreizehnter Auftritt
-
-
-Vierzehnter Auftritt
-
-
-Letzter Auftritt
-
-
-
-
-
-
-
-
-e-artnow
-
-
-
-div.sgc-1 {margin-left: 2em;}
-
-  a.sgc-2 {line-height: 1.2;}
-
-  div.sgc-5 {text-align:center}
-  h1.sgc-4 {text-align: center;}
-  h2.sgc-3 {margin:20% 0 0 0;text-align: center;}
-
-
-
-
-
-
-Personen
-Inhaltsverzeichnis
-
-
-
-
-
 
 Elisabeth,
 
@@ -304,35 +63,8 @@ Hofdienerder Königin von England
 Diener und Dienerinnender Königin von Schottland
 
 
-
-
-
-
-
-
-
-
-
-
-e-artnow
-
-
-
-div.sgc-1 {margin-left: 2em;}
-
-  a.sgc-2 {line-height: 1.2;}
-
-  div.sgc-5 {text-align:center}
-  h1.sgc-4 {text-align: center;}
-  h2.sgc-3 {margin:20% 0 0 0;text-align: center;}
-
-
-
-
-
-
 Erster Aufzug
-Inhaltsverzeichnis
+
 
 
 
@@ -341,7 +73,7 @@ Im Schloß zu Fotheringhay. – Ein Zimmer.
 
 
 Erster Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -513,7 +245,7 @@ Paulet. Den Christus in der Hand,
 
 
 Zweiter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -640,7 +372,7 @@ Paulet. Englands Beherrscher brauchen nichts zu scheuen
 
 
 Dritter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -670,7 +402,7 @@ Paulet. Was ihn Euch widrig macht, macht mir ihn wert.
 
 
 Vierter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -813,7 +545,7 @@ Kennedy. Es ist der Neffe. Geht hinein.
 
 
 Fünfter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -842,7 +574,7 @@ Maria. (zur Amme, welche zaudert und die Königin fragend ansieht).
 
 
 Sechster Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -1179,7 +911,7 @@ Mortimer. Es ist Lord Burleigh. Faßt Euch, Königin!
 
 
 Siebenter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -1495,7 +1227,7 @@ Maria. Ich bin die Schwache, sie die Mächt’ge – Wohl!
 
 
 Achter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -1619,33 +1351,8 @@ Paulet (unterbricht ihn).
 
 (Gehen ab).
 
-
-
-
-
-
-
-
-
-
-e-artnow
-
-
-
-div.sgc-1 {margin-left: 2em;}
-
-  a.sgc-2 {line-height: 1.2;}
-
-  div.sgc-5 {text-align:center}
-  h1.sgc-4 {text-align: center;}
-  h2.sgc-3 {margin:20% 0 0 0;text-align: center;}
-
-
-
-
-
 Zweiter Aufzug
-Inhaltsverzeichnis
+
 
 
 
@@ -1654,7 +1361,7 @@ Der Palast zu Westminster.
 
 
 Erster Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -1707,7 +1414,7 @@ Kent. Die Königin kommt!
 
 
 Zweiter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -1862,7 +1569,7 @@ Elisabeth. In diesem Sinn
 
 
 Dritter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -2094,7 +1801,7 @@ Elisabeth (steht auf).
 
 
 Vierter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -2241,7 +1948,7 @@ Elisabeth. Geht, meine Lords. Wir werden Mittel finden,
 
 
 Fünfter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -2325,7 +2032,7 @@ Elisabeth. – Gehabt Euch wohl, Sir! Laßt es Euch nicht leid tun,
 
 
 Sechster Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -2367,7 +2074,7 @@ Mortimer (allein).
 
 
 Siebenter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -2420,7 +2127,7 @@ Paulet. Die Königin verläßt sich
 
 
 Achter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -2710,7 +2417,7 @@ Mortimer. Bringt Ihr die selbst! Zum Werkzeug ihrer Rettung
 
 
 Neunter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -2863,32 +2570,8 @@ Elisabeth. Begeh ich eine Torheit,
 
 (Leicester stürzt zu ihren Füßen, der Vorhang fällt.)
 
-
-
-
-
-
-
-
-
-e-artnow
-
-
-
-div.sgc-1 {margin-left: 2em;}
-
-  a.sgc-2 {line-height: 1.2;}
-
-  div.sgc-5 {text-align:center}
-  h1.sgc-4 {text-align: center;}
-  h2.sgc-3 {margin:20% 0 0 0;text-align: center;}
-
-
-
-
-
 Dritter Aufzug
-Inhaltsverzeichnis
+
 
 
 
@@ -2896,7 +2579,7 @@ Gegend in einem Park. Vorn mit Bäumen besetzt, hinten eine weite Aussicht.
 
 
 Erster Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -2978,7 +2661,7 @@ Maria. Hörst du das Hifthorn? Hörst du’s klingen,
 
 
 Zweiter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -3026,7 +2709,7 @@ Paulet. Bleibt. Ihr müßt sie hier erwarten.
 
 
 Dritter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -3102,7 +2785,7 @@ Paulet. Die Königin kommt!
 
 
 Vierter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -3386,7 +3069,7 @@ Maria. Der Thron von England ist durch einen Bastard
 
 
 Fünfter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -3417,7 +3100,7 @@ Maria. Vor Leicesters Augen hab ich sie erniedrigt!
 
 
 Sechster Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -3588,7 +3271,7 @@ Maria. O Hanna! Rette mich aus seinen Händen!
 
 
 Siebenter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -3612,7 +3295,7 @@ Paulet. Von England!
 
 
 Achter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -3672,32 +3355,8 @@ Mortimer. Flieht hin, und Gott geleite Eure Flucht!
 
 (Gehen ab zu verschiedenen Seiten.)
 
-
-
-
-
-
-
-
-
-e-artnow
-
-
-
-div.sgc-1 {margin-left: 2em;}
-
-  a.sgc-2 {line-height: 1.2;}
-
-  div.sgc-5 {text-align:center}
-  h1.sgc-4 {text-align: center;}
-  h2.sgc-3 {margin:20% 0 0 0;text-align: center;}
-
-
-
-
-
 Vierte Aufzug
-Inhaltsverzeichnis
+
 
 
 
@@ -3706,7 +3365,7 @@ Vorzimmer.
 
 
 Erster Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -3729,7 +3388,7 @@ Kent. Ein Papist,
 
 
 Zweiter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -3807,7 +3466,7 @@ Burleigh. Er hole sie!
 
 
 Dritter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -3868,7 +3527,7 @@ Burleigh. Dort trefft Ihr mich – Und sehet zu,Mylord,
 
 
 Vierter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -3990,7 +3649,7 @@ Mortimer. Geliebte! Nicht erretten konnt’ ich dich,
 
 
 Fünfter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -4077,7 +3736,7 @@ Burleigh. Aber Königin, erwäge –
 
 
 Sechster Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -4307,7 +3966,7 @@ Elisabeth. Lord Burleigh teile sie mit Euch!
 
 
 Siebenter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -4338,7 +3997,7 @@ Kent. Sie sind entschlossen, eher nicht zu weichen,
 
 
 Achter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -4369,7 +4028,7 @@ Elisabeth (unentschlossen mit sich selbst kämpfend).
 
 
 Neunter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -4507,7 +4166,7 @@ Elisabeth. Man überlasse mich mir selbst! Bei Menschen ist
 
 
 Zehnter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -4582,7 +4241,7 @@ Elisabeth (allein).
 
 
 Elfter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -4693,7 +4352,7 @@ Elisabeth. Tut, was Eures Amts ist. (Sie geht ab.)
 
 
 Zwölfter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -4731,32 +4390,8 @@ Burleigh. Ihr seid ein Tor, Ihr seid von Sinnen! Gebt!
 (Er entreißt ihm die Schrift und eilt damit ab.) Davison (ihm nacheilend).
         Was macht Ihr? Bleibt! Ihr stürzt mich ins Verderben.
 
-
-
-
-
-
-
-
-
-e-artnow
-
-
-
-div.sgc-1 {margin-left: 2em;}
-
-  a.sgc-2 {line-height: 1.2;}
-
-  div.sgc-5 {text-align:center}
-  h1.sgc-4 {text-align: center;}
-  h2.sgc-3 {margin:20% 0 0 0;text-align: center;}
-
-
-
-
-
 Fünfter Aufzug
-Inhaltsverzeichnis
+
 
 
 
@@ -4765,7 +4400,7 @@ Die Szene ist das Zimmer des ersten Aufzugs.
 
 
 Erster Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -4858,7 +4493,7 @@ Kennedy. Ihr Leibarzt Burgoyn und ihre Frauen.
 
 
 Zweiter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -4899,7 +4534,7 @@ Melvil. O das gebe Gott!
 
 
 Dritter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -4939,7 +4574,7 @@ Kennedy. Gleich wird sie selbst hier sein.
 
 
 Vierter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -4960,7 +4595,7 @@ Zweite Kammerfrau. Sie hat uns von sich
 
 
 Fünfter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -4994,7 +4629,7 @@ Melvil. Faßt euch! Sie kommt!
 
 
 Sechster Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -5122,7 +4757,7 @@ Leb wohl, Margreta – Alix, lebe wohl –
 
 
 Siebenter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -5333,7 +4968,7 @@ Melvil. Nun so bereite dich, die Lords von Leicester
 
 
 Achter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -5381,7 +5016,7 @@ Paulet (gibt ihr die Hand).
 
 
 Neunter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -5454,7 +5089,7 @@ Ihr haltet Wort, Graf Leicester – Ihr verspracht
 
 
 Zehnter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -5515,7 +5150,7 @@ Wie? Fesselt mich ein Gott an diesen Boden?
 
 
 Elfter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -5541,7 +5176,7 @@ Elisabeth (tritt aus einer Seitentüre, ihr Gang und ihre Gebärden drücken die
 
 
 Zwölfter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -5581,7 +5216,7 @@ Elisabeth (lebhaft ausbrechend).
 
 
 Dreizehnter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -5652,7 +5287,7 @@ Elisabeth. Ich will es tun – weil Ihr es wünscht, Graf,
 
 
 Vierzehnter Auftritt
-Inhaltsverzeichnis
+
 
 
 
@@ -5710,7 +5345,7 @@ Shrewsbury. Wenn der Squire sich dieser Tat
 
 
 Letzter Auftritt
-Inhaltsverzeichnis
+
 
 
 
