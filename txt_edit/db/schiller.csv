@@ -2,14 +2,14 @@
 1,Demetrius,D,1805
 2,Der versöhnte Menschenfeind,D,1790
 3,Die Braut von Messina,D,1803
-4,Die Huldigung der Künste,G,1804
+4,Die Huldigung der Künste,D,1804
 5,Die Jungfrau von Orleans,D,1801
 6,Die Räuber,D,1781
 7,Die Verschwörung des Fiesco zu Genua,D,1783
 8,Don Carlos,D,1788
 9,Kabale und Liebe,D,1784
 10,Maria Stuart,D,1800
-11,Semele,G,1782
+11,Semele,D,1782
 12,Wallenstein,D,1799
 13,Wilhelm Tell,D,1804
 14,Der Abend,G,1776
@@ -18,10 +18,10 @@
 17,das Geheimnis der Reminiszemz,G,
 18,das Ideal und das Leben,G,1795
 19,das verschleierte Bild zu Sais,G,1795
-20,der Eroberer,G,
+20,der Eroberer,G,1777
 21,der Geisterseher,E,1789
-22,der Neffe als Onkel,U,
-23,der Parasit,U,
+22,der Neffe als Onkel,N,
+23,der Parasit,N,
 24,der Spaziergang,,
 25,der Venuswagen,,
 26,der Verbrecher aus verlorener Ehre,E,1786
@@ -52,7 +52,7 @@
 51,Über epische und dramatische Dichtung,P,1797
 52,Sprüche des Konfuzius,G,
 53,Laura am Klavier,G,
-54,Turandot,D,1801
+54,Turandot,N,1801
 55,Geschichten aus dem alten Pitaval,E,1792
 56,Spiel des Schicksals,E,1789
 57,Merkwürdiges Beispiel einer weiblichen Rache,E,1785
@@ -87,7 +87,7 @@
 86,Denkwuerdigkeiten aus dem Leben des Marschalls von Vieilleville,,
 87,Der Flüchtling,,
 88,Der Kampf,,
-89,der Spaziergang unter den Linden,,
+89,der Spaziergang unter den Linden,E,
 90,der Triumph der Liebe,,
 91,die Blumen,,
 92,die Freundschaft,,
@@ -95,7 +95,37 @@
 94,die Größe der Welt,,
 95,Elegie auf den Tod eines Jünglings,,
 96,Gruppe aus dem Tartarus,,
-97,Die Schlacht,,
+97,In einer Bataille,,1782
 98,an die Freude II,,1805
-99,,,
-100,,,
+99,Die Schaubuehne als moralische Anstalt betrachtet,P,1784
+100,Die Sendung Moses,H,1790
+101,Über den Zusammenhang der thierischen Natur des Menschen mit seiner geistigen,P,1780
+102,Elysium,G,
+103,Die unüberwindliche Flotte,,1785
+104,Iphigenie in Aulis,N,1788
+105,über Egmont,P,1788
+106,Etwas über die erste Menschengesellschaft nach dem Leitfaden der mosaischen Urkunde,H,1790
+107,Gedanken über den Gebrauch des gemeinen und niedrigen in der Kunst,P,1802
+108,Geschichte der Unruhen in Frankreich welche der Regierungen Heinrichs IV vorangingen,H,
+109,Geschichte des Abfalls der Vereinigten Niederlande von der spanischen Regierung,H,
+110,Graf Eberhard der Greiner von Württemberg,,
+111,Herzog von Alba bei einem Frühstück auf dem Schlosse zu Rudolstadt,H,
+112,Macbeth,N,
+113,,,
+114,,,
+115,,,
+116,,,
+117,,,
+118,,,
+119,,,
+120,,,
+121,,,
+122,,,
+123,,,
+124,,,
+125,,,
+126,,,
+127,,,
+128,,,
+129,,,
+130,,,
