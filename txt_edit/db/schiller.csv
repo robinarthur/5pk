@@ -21,7 +21,7 @@
 20,der Eroberer,G,1777
 21,der Geisterseher,E,1789
 22,der Neffe als Onkel,N,1803
-23,der Parasit,N,
+23,der Parasit,N,1803
 24,der Spaziergang,G,1795
 25,der Venuswagen,G,1781
 26,der Verbrecher aus verlorener Ehre,E,1786
@@ -51,7 +51,7 @@
 50,Zenith und Nadir,G,1803
 51,Über epische und dramatische Dichtung,P,1797
 52,Sprüche des Konfuzius,G,1795
-53,Laura am Klavier,G,
+53,Laura am Klavier,G,1782
 54,Turandot,N,1801
 55,Geschichten aus dem alten Pitaval,E,1792
 56,Spiel des Schicksals,E,1789
@@ -84,57 +84,57 @@
 83,an einen Moralisten,E,
 84,An Minna,,
 85,Das Glück und die Weisheit,,
-86,Denkwürdigkeiten aus dem Leben des Marschalls von Vieilleville,,
+86,Denkwürdigkeiten aus dem Leben des Marschalls von Vieilleville,H,
 87,Der Flüchtling,,
 88,Der Kampf,,
-89,der Spaziergang unter den Linden,E,
+89,der Spaziergang unter den Linden,P,
 90,der Triumph der Liebe,,
-91,die Blumen,,
+91,die Blumen,G,1781
 92,die Freundschaft,,
-93,Die Gesetzgebung des Lykurgus und Solon,,
+93,Die Gesetzgebung des Lykurgus und Solon,H,1790
 94,die Größe der Welt,,
 95,Elegie auf den Tod eines Jünglings,,
 96,Gruppe aus dem Tartarus,,
 97,In einer Bataille,,1782
 98,an die Freude II,G,1805
 99,Die Schaubuehne als moralische Anstalt betrachtet,P,1784
-100,Die Sendung Moses,H,1790
+100,Die Sendung Moses,P,1790
 101,Über den Zusammenhang der thierischen Natur des Menschen mit seiner geistigen,P,1780
 102,Elysium,G,
 103,Die unüberwindliche Flotte,G,1785
 104,Iphigenie in Aulis,N,1788
 105,über Egmont,P,1788
-106,Etwas über die erste Menschengesellschaft nach dem Leitfaden der mosaischen Urkunde,H,1790
+106,Etwas über die erste Menschengesellschaft nach dem Leitfaden der mosaischen Urkunde,P,1790
 107,Gedanken über den Gebrauch des gemeinen und niedrigen in der Kunst,P,1802
 108,Geschichte der Unruhen in Frankreich welche der Regierungen Heinrichs IV vorangingen,H,
-109,Geschichte des Abfalls der Vereinigten Niederlande von der spanischen Regierung,H,
+109,Geschichte des Abfalls der Vereinigten Niederlande von der spanischen Regierung,H,1788
 110,Graf Eberhard der Greiner von Württemberg,,
 111,Herzog von Alba bei einem Frühstück auf dem Schlosse zu Rudolstadt,H,
 112,Macbeth,N,1800
 113,Männerwürde,,
-114,Melancholie an Laura,,
-115,Philosophische Briefe,B,
+114,Melancholie an Laura,G,1782
+115,Philosophische Briefe,P,1786
 116,Resignation,G,1786
 117,Rousseau,,
 118,Über Anmuth und Würde,P,1793
-119,Über Bürgers Gedichte,P,
+119,Über Bürgers Gedichte,P,1791
 120,Über das Erhabene,P,1793
-121,Über das Pathetische,,
-122,Über den Gartenkalender auf das Jahr 1795,P,
+121,Über das Pathetische,P,
+122,Über den Gartenkalender auf das Jahr 1795,P,1794
 123,Über den Grund des Vergnuegens an tragischen Gegenständen,P,1792
-124,Über den moralischen Nutzen ästhetischer Sitten,,
+124,Über den moralischen Nutzen ästhetischer Sitten,P,
 125,Über die ästhetische Erziehung des Menschen in einer Reihe von Briefen,P,1795
-126,Über die nothwendigen Grenzen schöner Formen,,
-127,Über die tragische Kunst,,
-128,Über Matthissons Gedichte,P,
+126,Über die nothwendigen Grenzen schöner Formen,P,
+127,Über die tragische Kunst,P,1792
+128,Über Matthissons Gedichte,P,1794
 129,Über naive und sentimentalische Dichtung,P,1795
 130,Übersicht des Zustands von Europa zur Zeit des ersten Kreuzzugs,H,
-131,Über Völkerwanderung Kreuzzuege und Mittelalter,,
-132,Universalhistorische Übersicht der merkwürdigsten Staatsbegebenheiten,,
-133,Vorrede zu dem ersten Theile der merkwürdigsten Rechtsfälle,,
-134,Vorrede zu der Geschichte des Maltheserordens,,1792
-135,Was heisst und zu welchem Ende studiert man Universalgeschichte,,
-136,Zerstoerte Betrachtungen über verschiedene ästhetische Gegenstaende,,
+131,Über Völkerwanderung Kreuzzuege und Mittelalter,H,
+132,Universalhistorische Übersicht der merkwürdigsten Staatsbegebenheiten,H,
+133,Vorrede zu dem ersten Theile der merkwürdigsten Rechtsfälle,E,1792
+134,Vorrede zu der Geschichte des Maltheserordens,H,1792
+135,Was heisst und zu welchem Ende studiert man Universalgeschichte,P,1789
+136,Zerstörte Betrachtungen über verschiedene ästhetische Gegenstände,P,1793
 137,Würden,G,1795
 138,"Dem Erbprinzen von Weimar, als er nach Paris reiste",G,1802
 139,Der Antritt des neuen Jahrhunderts,G,1801
@@ -184,9 +184,9 @@
 183,Dithyrambe,G,1797
 184,Einem Freunde ins Stammbuch,,
 185,Einem jungen Freund,G,1795
-186,Einer jungen Freundin ins Stammbuch,,
+186,Einer jungen Freundin ins Stammbuch,G,1796
 187,Genialität,,
-188,Girechheit,,
+188,Griechheit,,
 189,Hero und Leander,G,1801
 190,Hoffnung,G,1798
 191,Ilias,G,1795
