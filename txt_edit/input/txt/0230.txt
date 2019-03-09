@@ -1,0 +1,1773 @@
+Die Zerstörung von Troja,
+im zweyten Buch der Aeneide.
+Neu übersetzt.
+
+Einige Freunde des Verfassers, die der lateinischen Sprache nicht kundig aber fähig sind, jede Schönheit der alten Klaßiker zu empfinden, wünschten durch ihn mit der Aeneis des großen römischen Dichters etwas bekannt zu werden, von welcher, seines Wissens, noch keine nur irgend lesbare Uebersetzung sich findet. Die hauptsächlichste Schwürigkeit, die ihm bey Ausführung seines Vorhabens aufstieß, war die Wahl einer Versart, bey welcher [4] von den wesentlichen Vorzügen des Originals am wenigsten eingebüßt würde, und welche dasjenige, was schon allein der Sprachverschiedenheit wegen unvermeidlich verloren gehen mußte, von einer andern Seite einigermaßen ersetzen könnte. Der deutsche Hexameter schien ihm diese Eigenschaft nicht zu besitzen, und er hielt sich für überzeugt, daß dieses Sylbenmaaß selbst nicht unter Klopstockischen und Voßischen Händen diejenige Biegsamkeit, Harmonie und Mannichfaltigkeit erlangen könnte, welche Virgil seinem Uebersetzer zur ersten Pflicht macht. Durch dieses Medium also glaubte er es schlechterdings aufgeben müssen, mit der Schönheit des Virgilischen Verses zu ringen. Er glaubte, die ganz eigene magische Gewalt, wodurch der Virgilische Vers uns hinreißt, in der seltenen Mischung von Leichtigkeit und Kraft, Eleganz und Größe, Majestät und Anmuth zu finden, wobey der römische Dichter von Seiner Sprache unstreitig weit mehr unterstützt wurde, als der Deutsche von der seinigen hoffen kann. Mußte von [5] diesen beyden so verschiedenen Eigenschaften des Ausdrucks eine der andern in der Uebersetzung nachgesetzt werden, so glaubte er bey derjenigen Versart, welche der Kraft, Majestät und Würde zwar einigen Abbruch thut, aber dem Ausdruck von Grazie, Gelenkigkeit, Wohlklang desto günstiger ist, am allerwenigsten zu wagen. Stärke, Erhabenheit, Würde sind weit weniger abhängig von der Form, und bedürfen weit weniger von dem Ausdruck unterstützt zu werden, als die letztern Eigenschaften; und wahre Kraft, wahre Erhabenheit, wahres Pathos muß in jeder Art von Darstellung die Probe halten, welches bey den andern Eigenschaften der Fall nicht ist; denen man also durch eine glückliche Wahl der Form zu Hülfe kommen muß. Es ließe sich vielleicht sogar mit triftigen Gründen behaupten, daß für einen ernsthaften, gewichtigen, pathetischen Inhalt die reizende leichte Form, so wie, in einer bekannten Gattung des Komischen für den geringfügigen Inhalt die feierliche Form, vorzuziehen sey. Die harten Schläge, [6] welche der Verfasser der Aeneis so oft auf das Herz seines Lesers führt, der großentheils kriegerische Inhalt seines Gedichts, die ganze Gravität seines Ganges werden durch eine gefällige Versart gemildert, und die Harmonie, die Anmuth in der Einkleidung söhnt vielleicht nicht selten mit der anstrengenden oft gar empörenden Schilderung aus. Diese Rücksicht vorzüglich bewog den Verfasser, den achtzeiligen Stanzen den Vorzug zu geben, derjenigen unter allen deutschen Versarten, wobey unsre Sprache noch zuweilen ihrer angestammten Härte vergißt, und durch ihren männlichen Karakter doch noch hinlänglich verhindert wird, ins Weichliche oder Spielende zu fallen. Der Verfasser konnte diese Wahl um so mehr bey sich rechtfertigen, da es seit Erscheinung des Idris und Oberon zur ausgemachten Wahrheit geworden ist, daß die achtzeiligen Stanzen, besonders mit einiger Freiheit behandelt, für das Große, Erhabene, Pathetische und Schrekhafte selbst einen Ausdruck haben – freylich nur unter den [7] Händen eines Meisters, aber wer pflegt auch im ersten Feuer eines Entschlusses und von Begeisterung hingerissen, eine so strenge Abrechnung mit seinen Kräften zu halten, um dasjenige, was die Form leistet, von dem was er selbst dazu mitbringen muß, sorgfältig abzusondern? Der Leser wird entscheiden, ob sich der Verfasser auf das Instrument, das er wählte, verstanden hat; genug, wenn ihm nicht bewiesen werden kann, daß schon in der Wahl der Versart gefehlt worden sey.
+
+Wer übrigens die Schwürigkeiten kennt, die sich einem Uebersetzer der Aeneis, und vollends in einer gereimten Versart, in den Weg stellen, wird eher im Fall seyn zu wenig, als zuviel, zu erwarten. Nicht die geringste darunter war, eine glückliche Eintheilung zu treffen, wobey der lateinische Dichter seinem Uebersetzer nicht nur nicht vorgearbeitet sondern sehr oft entgegen gearbeitet hat. Das lateinische Original bewegt sich in einem stetigen Strome fort, und Virgil hat sich in [8] vollem Maaße der Freyheit bedient, welche diese Form ihm gewährte. Dieser fortströmende Gang des Gedichts mußte nun in der Uebersetzung durch viele kurze Ruhepunkte unterbrochen, und ein einziges zusammenhängendes Ganze in mehrere kleine, sich leicht an einander schmiegende, Ganze aufgelößt werden, wenn anders die Stanzenform ungezwungen scheinen, und das sklavische Gepräg einer Uebersetzung verwischt werden sollte. Hier konnte es freylich nicht fehlen, daß nicht öfters vier oder fünf lateinische Hexameter in eine ganze Stanze ausgesponnen, oder auch umgekehrt acht und neun Verse des Originals in den engen Raum von acht Stanzenzeilen gepreßt wurden. Bey einem Dichter, der sich so wenig nehmen läßt, als Virgil, war die letztere Operation unstreitig die bedenklichste, doch glaubt der Verfasser, die, seinem Originale gebührende Achtung selten oder nie dabey übertreten zu haben. Es kam ihm zu statten, daß selbst der gedrängte wortsparende Virgil dem Wohllaut oder der unerbittlichen [9] Versform zu gefallen nicht selten entbehrliche Wiederhohlungen und selbst Flickwörter sich erlaubte, welche die Schonung des Uebersetzers weniger verdienten.
+
+Sehr gerne unterwirft er sich einer jeden kaltblütigen kritischen Prüfung, was die Gewissenhaftigkeit und Treue seiner Uebersetzung betrift, verbittet sich aber hiemit aufs feyerlichste jede Vergleichung seiner Arbeit mit der unerreichbaren Diktion des römischen Dichters, welche unausbleiblich, und ohne seine Schuld, zu seinem Nachtheil ausfallen muß; denn er fodert alle gewesene, gegenwärtige und noch kommende deutsche Dichter auf, in einer so schwankenden, unbiegsamen, breiten, gothischen, rauhklingenden Sprache, als unsre liebe Muttersprache ist, mit der feinen Organisation und dem musikalischen Fluß der lateinischen ohne Nachtheil zu ringen.
+
+Von dem Gedanken weit entfernt, sich an eine Uebersetzung der ganzen Aeneis [10] wagen zu wollen, verspricht er in der Folge noch einige Bruchstücke aus dem vierten und sechsten Buch; wäre es auch nur, um den römischen Dichter bey unserm unlateinischen Publikum in die ihm gebührende Achtung zu setzen, welche er ohne seine Schuld scheint verscherzt zu haben, seitdem es der Blumauerischen Muse gefallen hat, ihn dem einreissenden Geist der Frivolität zum Opfer zu bringen.
+
+
+
+[11]
+1.
+
+Der ganze Saal war Ohr, jedweder Mund verschlossen,
+und Fürst Aeneas, hingegossen
+auf hohen Polstersitz, begann:
+Dein Wille, Königinn, macht Wunden wieder bluten,
+die keine Sprache schildern kann;
+wie Trojas Stadt vergieng in Feuerfluten,
+den Jammer willst du wissen, die Gefahr,
+wovon ich Zeuge, ach und meistens Opfer war.
+
+2.
+
+Wer, selbst aus der Dolopen rauhem Schwarme,
+gibt thränenlos den traurigen Bericht?
+Und uns umschattet schon die Nacht mit feuchtem Arme,
+zum Schlummer winkt der Sterne sinkend Licht.
+Doch du hast Lust, mein Schicksal zu betrauern,
+der Teukrer Noth und Trojas letzten Tag.
+Sey’s denn! Wie sehr mir auch vor der Erinnrung schauern,
+der Geist davor zurücke fliehen mag.
+
+[12]
+3.
+
+Der Griechen Fürsten, aufgerieben
+vom langen Krieg, vom Glück zurückgetrieben,
+erbauen endlich durch Minervens Kunst
+ein Roß aus Fichtenholz, zum Berge aufgerichtet,
+beglückte Wiederkehr, wie ihre List erdichtet,
+dadurch zu flehen von der Götter Gunst.
+Der Kern der tapfersten birgt sich in dem Gebäude,
+und eisern ist sein Eingeweide.
+
+
+4.
+
+Die Insel Tenedos ist aller Welt bekannt,
+von Priams Königsstadt getrennt durch wen’ge Meilen,
+an Gütern reich, so lange Troja stand,
+jetzt ein verrätherischer Strand,
+wo im Vorüberzug die Kaufmannsschiffe weilen.
+Dort birgt der Griechen Heer sich auf verlaßnem Sand.
+Wir wähnen es auf ewig abgezogen,
+und mit des Windes Hauch Mycenen zugeflogen.
+
+[13]
+5.
+
+Alsbald spannt von dem langen Harme
+die ganze Stadt der Teukrier sich los,
+heraus stürzt alles Volk in frohem Jubelschwarme,
+das Lager zu besehn, aus dem sein Leiden floß.
+Dort, heißt es, wütheten der Myrmidonen Arme,
+hier schwang Achill das schreckliche Geschoß,
+dort lag der Schiffe zahlenlos Gedränge,
+hier donnerte das Handgemenge.
+
+
+6.
+
+Mit Staunen weilt der überraschte Blick
+beym wunderbaren Bau des ungeheuren Rosses,
+Thimät, seys böser Wille, seys Geschick,
+wünscht es im innern Raum des Schlosses.
+Doch bang vor dem versteckten Feind
+räth Capys an, und wer es redlich meynt,
+den schlimmen Fund dem Meer, dem Feuer zu vertrauen,
+wo nicht, doch erst sein innres zu beschauen.
+
+[14]
+7.
+
+Die Stimmen schwankten noch in ungewissem Streite,
+als ihn der Priester des Neptun vernahm,
+Laokoon, mit mächtigem Geleite
+von Pergams Thurm erhitzt herunter kam,
+Ras’t ihr Dardanier? ruft er voll banger Sorgen.
+Unglückliche, ihr glaubt, die Feinde seyn geflohn?
+Ein griechisches Geschenk und kein Betrug verborgen?
+So schlecht kennt ihr Laertens Sohn?
+
+
+8.
+
+Wenn in dem Rosse nicht versteckte Feinde lauren,
+so droht es sonst Verderben unsern Mauren,
+so ist es aufgethürmt, die Stadt zu überblicken
+so sollen sich die Mauren bücken
+vor seinem stürzenden Gewicht,
+so ists ein anderer von ihren tausend Ränken,
+der hier sich birgt. Trojaner trauet nicht,
+Die Griechen fürchte ich, und doppelt, wenn sie schenken.
+
+[15]
+9.
+
+Dieß sagend, treibt er den gewaltgen Speer,
+mit starken Kräften in des Rosses Hüfte,
+es schüttert durch und durch, und weit umher
+antworten dumpf die vollgestopften Grüfte.
+Und hätte nicht das Schicksal ihm gewehrt,
+nicht eines Gottes Macht umnebelt seine Sinne,
+jetzt hätte den Betrug sein Eisen aufgestört,
+noch stünde Ilium, und Pergams feste Zinne.
+
+
+10.
+
+Indessen wird durch eine Schaar von Hirten,
+die Hände auf dem Rücken zugeschnürt,
+mit lermendem Geschrey ein Jüngling hergeführt.
+Der Jüngling spielte den Verirrten,
+und bot freywillig sich den Banden dar,
+durch falsche Botschaft Troja zu verderben.
+Mit dreister Stirn, gefaßt auf jegliche Gefahr,
+und gleich bereit zum Lügen oder Sterben.
+
+[16]
+11.
+
+Ihn zu betrachten, sammelt um und um
+Die wilde Jugend sich aus Ilium,
+wetteifernd höhnt mit herbem Spotte
+den eingebrachten Fang die rachbegierge Rotte,
+und wehrlos bloß gestellt so vieler Feinde Grimm
+fliegt er mit ängstlichscheuem Blicke
+die Reyhen durch. Jetzt Königinn vernimm
+aus Einer Frevelthat der Griechen ganze Tücke!
+
+
+12.
+
+Weh! ruft er aus, wo öfnet sich ein Port,
+wo thut ein Meer sich auf, mich zu empfangen?
+Wo bleibt mir Elenden ein Zufluchtsort?
+Dem Schwerdt der Griechen kaum entgangen,
+seh ich der Trojer Haß nach meinem Blut verlangen!
+Schnell umgestimmt von diesem Wort
+legt sich der wilde Sturm der Schaaren,
+und man ermahnt ihn fortzufahren.
+
+[17]
+13.
+
+Weß Stamms er sey? Was ihn hieher gebracht,
+ihm Lebenshofnung ließ, selbst in des Feindes Macht,
+soll er bekennen. Furcht und Angst verschwanden.
+Was es auch sey, ruft er, dir König seys gestanden.
+Empfange den Beweis von Sinons Redlichkeit.
+Ich läugne nicht, zum Volk der Griechen zu gehören.
+Hat mein Verhängniß gleich dem Elend mich geweiht,
+Zur Lüge soll es nimmer mich entehren.
+
+
+14.
+
+Trug das Gerücht vielleicht den Nahmen und die Thaten
+des großen Palamed zu deinem Ohr,
+der, boshaft angeklagt, weil er den Krieg misrathen,
+sein Leben durch der Griechen Spruch verlor,
+den sie im Grabe schmerzlich jetzt beklagen?
+Mit diesem hat – er ist mir anverwandt –
+seit dieses Krieges ersten Tagen
+der dürftge Vater mich nach Asien gesandt.
+
+[18]
+15.
+
+So lange Palamed der Herrschaft sich erfreute,
+und in dem Rath der Könige mit saß,
+stand ich geehrt und glücklich ihm zur Seite.
+Doch das vergieng, als ihn Ulyssens Haß,
+wer kennt den Schwätzer nicht? dem Orkus übergeben,
+da floß in Trauer hin mein unbemerktes Leben,
+und der verhaltnen Rache Schmerz
+zernagte still mein wundes Herz.
+
+
+16.
+
+Weh mir, daß ich sie nicht verschwieg,
+zu laut zu seinem Rächer mich erklärte,
+wenn einst ein Gott aus diesem Krieg
+siegreiche Heimkehr mir gewährte!
+Mit eitler Rede weckt’ ich schweren Groll.
+Seitdem ermüdete, mir Feinde zu erwecken
+Ulysses nicht, und wußte rachevoll
+mit immer neuen Ränken mich zu schrecken.
+
+[19]
+17.
+
+Auch ruht er nimmermehr, biß Kalchas – doch warum
+mit widrigem Bericht fruchtlos die Zeit verlieren?
+Verurtheilt alle, die ihn führen,
+der Nahme Grieche schon in Ilium,
+wohlan, so würgt mich ohne Schonen!
+Das wird dem Ithaker willkommne Botschaft seyn,
+das wird die Söhne Atreus hoch erfreun,
+und herrlich werden sies euch lohnen.
+
+
+18.
+
+Ohn’ Ahndung des Betrugs, der aus dem Griechen spricht,
+steigt unsre Neugier, ihm den Aufschluß abzufragen,
+und er, mit schlau verstelltem Zagen,
+vollendet so den täuschenden Bericht:
+Oft, spricht er, war der Wunsch lebendig bey dem Heere,
+der langen Kriegesnoth sich endlich zu entziehn,
+von Troja heimlich zu entfliehn,
+o daß es doch geschehen wäre!
+
+[20]
+19.
+
+Stets hinderten die frohe Wiederkehr
+der rauhe Süd und das empörte Meer.
+Dieß Roß von Fichtenholz stand längst schon aufgethürmet,
+als, vom Orkan gepeitscht, die finstre Luft gestürmet.
+Verlegen sendet man zuletzt Euripylus,
+zu fragen an des Schicksals Throne
+nach Delphi zu Latonens Sohne;
+Der kommt zurück mit diesem traurgen Schluß.
+
+
+20.
+
+Mit Blut erkauftet ihr die Herfahrt von den Winden,
+und eine Jungfrau fiel an Deliens Altar.
+Mit Blut allein könnt ihr den Rückweg finden,
+ein Grieche bringe sich zum Todesopfer dar.
+Eißkalte Angst durchlief die zitternden Gebeine,
+als in dem Lager diese Post erklang,
+und jedes Auge fragte bang,
+wen wohl der Zorn der Gottheit meyne?
+
+[21]
+
+
+21.
+
+Jetzt riß Ulyß mit lermendem Geschrey
+den Seher Calchas in des Heeres Mitte,
+und dringt in ihn mit ungestümer Bitte,
+zu sagen, wessen Haupt zum Tod bezeichnet sey.
+Schon ließen viele mich, mit ahndungsvollem Grauen,
+des Schalks verruchten Plan und mein Verderben schauen.
+Zehn Tage schließt der Priester schlau sich ein
+um keinen aus dem Volk dem Untergang zu weihn.
+
+
+22.
+
+Zuletzt, als könnt er dem beredten Flehn
+Ulyssens nicht mehr widerstehn,
+läßt er geschickt den Nahmen sich entreissen,
+und zeichnet mich dem Mördereisen.
+Man stimmt ihm bey, und froh sieht jeder die Gefahr,
+die alle gleich bedroht, auf Einen abgeleitet.
+Der Unglückstag ist da. Die Binde schmückt mein Haar.
+Man streut das Mehl. Das Opfer ist bereitet.
+
+[22]
+23.
+
+Ja, da entriß ich mich dem Tod, zerbrach die Bande,
+und harrete des Nachts in eines Sumpfes Rohr,
+biß die Armee, wenn sie zum Vaterlande
+vielleicht sich eingeschifft, vom Ufer sich verlor.
+Ach! Nie werd ich die Heimat mehr begrüßen,
+nie Vater, Kinder mehr in diese Arme schließen,
+und mein Entrinnen rächt vielleicht die Wut
+der Danaer an diesem theuren Blut.
+
+
+24.
+
+Und nun bey allen himmlischen Dämonen,
+die in des Herzens tiefste Falten sehn,
+wenn Treu und Glaube noch auf Erden irgend wohnen,
+Laß so viel Leiden dir zu Herzen gehn.
+Hab du Erbarmen mit dem Unglücksvollen,
+der, was er nicht verschuldete, erfuhr! –
+Wir sehen jammernd seine Thränen rollen,
+es siegt in uns die Stimme der Natur.
+
+[23]
+25.
+
+Sogleich läßt Priam selbst der Hände Band ihm lösen,
+und spricht ihm Trost mit milden Worten ein.
+Du bist, spricht er, ein Danaer gewesen,
+wer du auch seyst, hinfort wirst du der Unsre seyn.
+Und jetzt laß Wahrheit mich auf meine Fragen hören.
+Warum, wozu das ungeheure Roß?
+Wer gab es an? Warum so riesengroß?
+Zu welchem Kriegsgebrauch? Sprich! Welchem Gott zu Ehren?
+
+
+26.
+
+Er sprachs und jener Bösewicht, gewandt
+in jeder List, Pelasger im Betrügen,
+hebt himmelan die losgebundne Hand.
+Dich, ruft er, ewges Licht, dich Rächer aller Lügen,
+dich Opferheerd, dem ich durch Flucht entrann,
+dich frevelhafter Stahl, den Mordgier auf mich zückte,
+dich priesterliches Band, das meine Schläfe schmückte,
+euch ruf ich jetzt zu Zeugen an.
+
+[24]
+27.
+
+Von jeder Pflicht, die mich an Griechen band,
+erklär ich mich auf ewig losgezählet,
+Für Sinon gibts hinfort kein Vaterland.
+Ich mache laut, was ihre List verhehlet.
+Gedenke du nur deines Wortes, Fürst,
+und schone, Troja, den, der Rettung dir geschenket,
+ists anders wahr, was du jetzt hören wirst,
+und werth, daß man es überdenket.
+
+
+28.
+
+Von jeher barg im Krieg mit Ilium,
+Minervens Schutz der Myrmidonen Schwäche,
+doch seit Ulyß der Schalk und Diomed der Freche
+der Göttinn Bild aus ihrem Heiligthum
+zu reißen sich erkühnt, die Hüter zu durchbohren,
+der Jungfrau Stirne selbst mit mordbefleckter Hand
+verwegen zu berühren, schwand
+der Griechen Glück dahin, gieng ihre Kraft verloren.
+
+[25]
+29.
+
+Auf immer war Athenens Gunst entwichen,
+bald zeigte sich in fürchterlichen
+Erscheinungen der Göttinn Strafgericht.
+Kaum steht das Bild im Lager still, so blitzen
+die ofnen Augen und die Glieder schwitzen,
+und dreymal steigt, entsetzliches Gesicht!
+mit Schild und Speer und wüthender Gebärde
+die Göttinn selbst aus der zerrißnen Erde.
+
+
+30.
+
+Ein Gott gebeut jetzt durch des Sehers Mund,
+auf schneller Flucht die Heimat zu gewinnen,
+denn nimmer fallen durch der Griechen Bund,
+so spricht das Schicksal, Pergams feste Zinnen,
+sie hätten denn aufs neu der Heimat Strand berührt,
+in wiederhohlter Feyr die Götter zu befragen,
+zum alten Heiligthum das Bild zurückgetragen,
+das sie auf krummen Schiffen weggeführt.
+
+[26]
+31.
+
+Jetzt zwar sind sie nach Argos heimgefahren,
+doch führt sie Kalchas bald mit neuen Kriegerschaaren
+und Göttern furchtbarer zurück. Dieß Roß
+ward aufgethürmt, den Zorn der Pallas zu versöhnen,
+und nicht umsonst seht ihrs so riesengroß.
+Es sollte seine Last das schmahle Thor verhöhnen,
+nie sollt euch der Besitz des Wunderbilds erfreun,
+nie sollt es eurer Stadt den alten Schutz erneun.
+
+
+32.
+
+Denn wagtet ihrs, Minervens Heiligthum
+mit Frevler Händen zu versehren,
+so traf der Göttinn Fluch ganz Ilium,
+(möcht ihn ein Gott auf ihre Häupter kehren!)
+Doch hättet ihr mit eigner Hand,
+dieß Roß in eure Stadt gezogen,
+so wälzte Asien zu uns des Krieges Wogen
+und weh dann über Griechenland!
+
+[27]
+33.
+
+Von dieser Lügen schlau gewebten Banden
+ward unser redlich Herz umstrickt,
+Der Zweifel wird in jeder Brust erstickt.
+Die dem Tydiden männlich widerstanden,
+die der theßalische Achill nicht zwang,
+nicht zehenjährge Kriegeslasten,
+nicht das Gewühl von tausend Masten,
+weint ein Betrüger in den Untergang!
+
+
+34.
+
+Jetzt aber stellt sich den entsetzten Blicken
+ein unerwartet schrecklich Schauspiel dar.
+Es stand, den Opferfarren zu zerstücken,
+Laokoon am festlichen Altar.
+Da kam, (mir bebt die Zung’ es auszudrücken)
+von Tenedos ein gräßlich Schlangenpaar,
+den Schweif gerollt in fürchterlichem Bogen
+dahergeschwommen auf den stillen Wogen.
+
+[28]
+35.
+
+Die Brüste steigen aus dem Wellenbade,
+hoch aus den Wassern steigt der Kämme blutge Glut,
+und nachgeschleift in ungeheurem Rade
+netzt sich der lange Rücken in der Flut,
+lautrauschend schäumt es unter ihrem Pfade,
+im blutgen Auge flammt des Hungers Wuth,
+gewetzt am Rachen zischen ihre Zungen,
+so kommen sie ans Land gesprungen.
+
+
+36.
+
+Der bloße Anblick bleicht schon alle Wangen,
+und auseinander flieht die furchtentseelte Schaar,
+der pfeilgerade Schuß der Schlangen
+erwählt sich nur den Priester am Altar.
+Der Knaben zitternd Paar sieht man sie schnell umwinden,
+den ersten Hunger stillt der Söhne Blut,
+der Unglückseligen Gebeine schwinden
+dahin von ihres Bisses Wut.
+
+[29]
+37.
+
+Zum Beystand schwingt der Vater sein Geschoß,
+doch in dem Augenblick ergreifen
+die Ungeheur ihn selbst, er steht bewegungslos,
+geklemmt von ihren Wirbelschweifen.
+Zwey Ringe haben sie um seinen Hals gestrickt,
+zweymal den Schuppenleib geschnürt um Brust und Hüften,
+und ihres Halses schwanke Säule nickt
+hoch über seiner Scheitel in den Lüften.
+
+
+38.
+
+Der Knoten furchtbares Gewinde
+gewaltsam zu zerreissen, strengt
+der Arme Kraft sich an, des Geifers Schaum besprengt
+und schwarzes Gift die priesterliche Binde.
+Des Schmerzens Höllenquaal durchdringt
+der Wolken Schoos mit berstendem Geheule,
+so brüllt der Stier, wenn er, gefehlt vom Beile
+und blutend, dem Altar entspringt.
+
+[30]
+
+
+39.
+
+Die Drachen bringt ein blitzgeschwinder Schuß
+zum Heiligthum der furchtbarn Tritonide,
+dort legen sie sich zu der Göttinn Fuß,
+beschirmt vom weiten Umkreis der Aegide.
+Entsetzen bleibt in jeder Brust zurück,
+gerechte Büßung heißt Laokoons Geschick,
+der frech und kühn das Heilige und Hehre
+verletzt mit frevelhaftem Speere.
+
+
+40.
+
+Zum Tempel, ruft das Volk, mit dem geweihten Bilde!
+und flehet an der Göttinn Milde!
+Sogleich strengt jeder Arm sich an,
+die Mauer wird zertheilt, die Stadt ist aufgethan,
+und auf der Walze künstlichen Wogen
+rollt es dahin, von Strängen fortgezogen,
+Verderbenträchtig, schwanger mit dem Blitz
+der Waffen, rollts in Priams Königssitz.
+
+
+[31]
+
+
+41.
+
+Und hoch beglückt, den Strang berührt zu haben
+der es bewegt, begleiten Jungfrauen und Knaben
+mit heilgen Liedern die verehrte Last.
+O meine Vaterstadt! So reich an Siegeskronen,
+o heilges Land, wo so viel Götter thronen!
+in deiner Mitte steht der fürchterliche Gast.
+Viermal hat es am Eingang still gehalten,
+und viermal klang das Erz in seines Bauches Falten.
+
+
+42.
+
+Uns warnt es nicht! Von wüthender Begierde
+verblendet setzen wir die unglückschwangre Bürde
+beym Tempel ab. Apolls Orakel spricht
+weißagend aus Kaßandrens Munde,
+es spricht von Trojas letzter Stunde,
+wir glauben selbst der Gottheit nicht.
+Von festlich grünem Laub muß jeder Tempel wehen
+und – morgen ists um uns geschehen!
+
+
+[32]
+
+
+43.
+
+Indeßen wandelt sich des Himmels Sphäre,
+und Nacht stürzt nieder auf die Meere,
+mit breitem Schatten hüllt sie Land und Hayn
+und den Betrug der Myrmidonen ein.
+An Trojas Mauren fängt es an zu schweigen,
+Schlaf spannt der Wachen müde Glieder los;
+da naht, den Mond allein zum stillen Zeugen,
+der Griechen Flotte sich von Tenedos.
+
+
+44.
+
+Geleitet von dem Feuerbrande
+der aus dem königlichen Schiffe blitzt,
+dringt sie hinan zum wohlbekannten Strande,
+und, von der Götter Grimm beschützt,
+eröfnet Sinon still den Bauch der Fichte.
+Gehorsam gibt das aufgethane Roß
+die Krieger von sich, die sein Leib verschloß,
+und hoch erfreut entspringen sie zum Lichte.
+
+
+[33]
+
+
+45.
+
+Herab am Seile gleiten schnell die Fürsten
+Thessandrus, Stenelus, Machaon, Acamas,
+ihm folgt mit Blicken, die nach Blute dürsten,
+Ulyß, Neoptolem, drauf Thoas, Menelas,
+zuletzt Epeus, der das Roß gegründet.
+Sie stürzen in die Stadt, die Wein und Schlummer bindet,
+die Wachen würgt ihr Stahl, indeß schon die Genossen,
+durchs Thor eindringend, zu den Fürsten stoßen.
+
+
+46.
+
+Schon neigte aus der Götter Hand
+des ersten Schlummers Wohlthat sich hernieder,
+und schloß mit süßem Zauberband
+die kummerschweren Augenlieder.
+Da sah ich Hektors Geisterbild
+im Traumgesichte mir erscheinen,
+den Blick in tiefen Gram gehüllt,
+der Stimme Ton erstickt von lautem Weinen.
+
+
+[34]
+47.
+
+So wie ihn einst durch Trojas Kampfgefild
+des rauhen Siegers Zweygespann gerissen,
+von blutgem Staub geschwärzt und mit durchbohrten Füßen,
+ihr Götter, welch ein Trauerbild!
+Der Hektor nicht mehr, der gleich einem Gotte
+in des Peliden Rüstung heimgekehrt,
+den Feuerbrand von der Trojaner Heerd
+geschleudert hatte in der Griechen Flotte.
+
+
+48.
+
+Den Bart beflekt, der Locken schönes Wallen
+gehemmt von blutgem Leime, stand er da,
+den Leib besät mit jenen Wunden allen,
+die Trojas Mauer ihn empfangen sah.
+Den hohen Schatten zu besprechen,
+gebietet mir des Herzens feurger Drang,
+die Wange brennt von heißen Thränenbächen,
+und von den Lippen flieht der Trauerklang.
+
+
+[35]
+49.
+
+O Trojas Hoffnung, die uns nie gelogen,
+o du, nach dem der heiße Wunsch geschmachtet hat!
+o sey willkommen, Licht der Vaterstadt!
+Warum und wo hast du so lang verzogen?
+So viele Kämpfe mußten wir bestehn,
+von so viel Noth und Herzensangst ermatten,
+so viel geliebte Leichname bestatten,
+eh dich die Freunde wieder sehn!
+
+
+50.
+
+O sprich, und welcher Frevel durft es wagen,
+der Augen sonnenheitern Schein
+mit Blut und Staub unwürdig zu entweihn?
+Was sollen diese Wundenmähler sagen?
+Doch keinen Laut verlor der Geist,
+des Fragers eitle Neugier zu vergnügen,
+bis unter tief gehohlten Odemzügen
+ein schweres Ach der Zunge Band durchreißt.
+
+
+[36]
+
+
+51.
+
+Fort Göttinnsohn! Fort, fort aus diesem Brand,
+die Mauren sind in Feindes Hand,
+die stolze Troja stürzt von ihren Höhen,
+genug, genug ist für das Vaterland,
+genug für Priams Thron geschehen!
+War Pergamus durch eines Kriegers Eisen
+dem letzten Schicksal zu entreissen,
+glaub mir, so wars durch Hektors Hand!
+
+
+52.
+
+Die Heiligthümer sind dir übergeben,
+nimm zu Gefährten sie auf deiner flüchtgen Bahn!
+Für sie wirst du ein neues Ilium erheben,
+nach langer Irrfahrt auf dem Ozean.
+Er sprichts, und hohlt in schneller Eile
+mir vom Altar mit eigner Hand
+der mächtgen Vesta heilge Säule,
+den Priesterschmuck, den ewgen Feuerbrand.
+
+
+[37]
+
+
+53.
+
+Und draußen hört man schon ein tausendstimmig Heulen
+mit wachsendem Getön die bangen Lüfte theilen,
+es dringt der Waffen eisernes Gebrause
+bis zu Anchisens meines Vaters Hause,
+das hinter Bäumen einsam sich verlor,
+es donnert aus dem Schlummer mich empor,
+den höchsten Standort wähl ich mir im Hause,
+und stehe da mit ofnem Ohr.
+
+
+54.
+
+So fallen Feuerflammen ins Getreide,
+gejagt vom Wind. So stürzt der Wetterbach
+sich donnernd nieder von des Berges Heide,
+zertreten liegt, so weit er Bahn sich brach,
+der Schweiß der Rinder und des Schnitters Freude,
+und umgerißne Wälder stürzen nach.
+Es horcht der Hirt, unwissend wo es dröne,
+vom fernen Fels verwundert dem Getöne.
+
+
+[38]
+
+
+55.
+
+Jetzt lag es kund und aufgethan,
+wie Danaer auf Treu und Glauben halten,
+das Bubenstück sieht man jetzt schrecklich sich entfalten!
+Schon liegt, besiegt vom prasselnden Vulkan,
+Deiphobus majestätsche Burg im Staube,
+schon wird Ukalegon’s, ihr Nachbar, ihm zum Raube,
+vom flammenrothen Wiederscheine brennt
+des Meeres Spiegel und das Firmament.
+
+
+56.
+
+Von lautem Kriegsgeschrey erzittern jetzt die Zinnen,
+und schrecklich schmettert des Achivers Horn.
+Sinnlos bewaffn’ ich mich. Bewaffnet, was beginnen?
+Samml’ ich der Freunde Schaar, die Veste zu gewinnen?
+Den zweifelnden Entschluß beflügeln Wuth und Zorn.
+Will, ruf ich aus, das Schicksal mit uns enden,
+so stirbt’s sich schön, die Waffen in den Händen.
+
+
+[39]
+
+
+57.
+
+Indem seh ich, entflohn der Feinde Pfeilen,
+den Priester des Apoll bey mir vorüber eilen,
+die überwundnen Götter in der Hand,
+am Arm den kleinen Sohn, flieht er betäubt zum Strand.
+O halt, halt an, rief ich, mich zu belehren,
+mein Panthus, was beschließt das zürnende Geschick?
+Welch vestes Schloß wird uns noch Schutz gewähren?
+Da gibt er seufzend mir zurück.
+
+
+58.
+
+Der Tage letzter ist vorhanden,
+unwiderruflich fiel das Todesloos,
+einst gab es Teukrer und ein Troja hat gestanden,
+und seines Nahmens Glanz war gros.
+Dieß alles gab der Götter Grimm dem Sieger,
+in Trojas Rauch herrscht des Achivers Schwerdt,
+hohnlachend zündet Sinon, der Betrüger,
+und Feinde, Feinde speyt das ungeheure Pferd.
+
+
+[40]
+
+
+59.
+
+Und durch die zweyfach offnen Thore wogen
+schon Tausende und wieder Tausende einher,
+als aus dem weiten Argos nie gezogen,
+es stehen andre mit gestrecktem Speer
+mordlustig hingepflanzt auf engen Wegen;
+des Eisens Blitz starrt jeder Brust entgegen,
+kaum thun die ersten Wachen Widerstand
+und wagen das Gefecht mit ungewisser Hand.
+
+
+60.
+
+Von diesen Reden feurig aufgefodert,
+und fortgezogen von der Götter Macht,
+flieg ich dahin, was höher, heller lodert,
+der Donner stürzender Palläste kracht,
+wo vom Geschrey und vom Geklirr der Eisen
+die Luft erbebt, wohin die Furien mich reissen,
+der günstge Mond gibt mir den treflichen Epyt
+und Ripheus Stärke zu Begleitern mit.
+
+
+[41]
+
+
+61.
+
+Auch treten Hypanis und Dymas zu dem Bunde,
+auch Mygdons Sohn Choröbus folgt dem Zug,
+der Unglückselige, den feurger Liebe Wunde,
+Kaßandrens Werk, zu Trojas Ende trug!
+Dem Vater seiner Braut bracht er hilfreiche Schaaren,
+und glaubte nicht dem warnungsvollen Laut,
+nicht den verkündigten Gefahren
+im Mund der Gottbeseelten Braut.
+
+
+62.
+
+Wohlan, beginn ich zu der kampfbegiergen Jugend,
+ihr Herzen, jetzt umsonst voll Heldentugend,
+gewichen sind, ihr sehts, aus allen ihren Sitzen
+die Götter, welche Troja schützen,
+treibt euch der Muth, dem kühnen Führer nachzugehn,
+kommt, der entflammten Troja beyzustehn,
+kommt mit mir, kommt und fechtend endigt euer Leben!
+Besiegte rettet nichts, als Rettung aufzugeben.
+
+
+[42]
+
+
+63.
+
+In Flammen setzt dieß ihres Eifers Glut,
+und, Wölfen gleich die durch den Nebel spürend schleichen,
+herausgestachelt von des Hungers Wut,
+mit troknem Gaum erwartet von der Brut,
+gehts zum gewissen Tod durch Schwerdter und durch Leichen.
+Der hohlen Nacht furchtbare Schatten streichen
+rings durch die Straßen. Unser kühner Muth
+verschmäht, aus Trojas Mitte zu entweichen.
+
+
+64.
+
+O Nacht des Grauens, welcher Mund
+spricht deine Schrecken aus, die Todesnoth der Meinen,
+wer macht die Opfer die du würgtest, kund,
+wo nehm’ ich Thränen her, sie zu beweinen?
+Sie fällt die hohe Stadt, seit grauem Alterthum,
+gewohnt zu herrschen und zu siegen.
+Auf Strassen, Schwellen, selbst im Heiligthum
+der Götter sieht man Todtenkörper liegen.
+
+
+[43]
+
+
+65.
+
+Doch glaube nicht, daß nur trojanisch Blut
+der Nächte schrecklichste getrunken.
+Auch meines Volks erstorbner Muth
+glimmt auf in manchem Heldenfunken,
+und dann fließt auch des Siegers Blut.
+Der Angst, der Qual, des Jammers Stimmen spalten
+des Hörers Ohr, wo nur das Auge ruht,
+des Todes schrecklich wechselnde Gestalten!
+
+
+66.
+
+Von Feinden warf zuerst mit einer großen Schaar
+Androgeos sich uns entgegen.
+Sein Irrthum stellt in uns der Freunde Heer ihm dar.
+Auf Brüder, eilt! ruft er. Woher so spät ihr trägen?
+Die andern schleppen schon das ganze Pergam fort
+Ihr habt erst jetzt den Schiffen euch entrissen?
+Kaum endigt er, so sagt ihm ein verdächtig Wort,
+daß Feindeshaufen ihn umschließen.
+
+
+[44]
+
+
+67.
+
+Sein Fuß erstarrt, und auf den Lippen stirbt die Stimme.
+So zittert, wer, in Dornen tief versteckt,
+die Natter unverhofft mit rauhem Fußtritt weckt.
+Ihr blauer Hals schwillt an, mit giftgem Grimme
+knirrscht sie empor, und bleich flieht er zurück.
+So wendet bey geschärftem Blick
+Androgeos erschrocken um. Wir dringen
+in seine dichte Schaar, es mischen sich die Klingen.
+
+
+68.
+
+In Troja fremd und halb von Furcht entseelt, erliegen
+sie unserm Arm. Den Anfang krönt das Glück.
+Auf Freunde, ruft erhitzt von diesen ersten Siegen
+Choröbus, voll von Muth. Es zeigt uns das Geschick
+in diesem Zufall selbst den Weg zum Leben.
+Vertauscht den Schild! Den Helm der Griechen auf das Haupt!
+List oder Kraft – was wäre Feinden nicht erlaubt?
+Die Todten werden Waffen geben.
+
+
+[45]
+
+
+69.
+
+Er sprichts, und schleunig weht auf seinem Haupt
+des fremden Helmes Busch Androgeos geraubt,
+er eilt des Schildes Zierde zu vertauschen,
+und läßt ein griechisch Schwerdt von seinen Hüften rauschen.
+Ihm folgt die ganze Jugend, und umhängt
+sich schnell die frisch gemachte Beute.
+So stürzen wir, mit Danaern vermengt,
+doch ohne unsern Gott! zum Streite.
+
+
+70.
+
+Begünstigt von der blinden Nacht,
+gelingt uns manche heiße Schlacht,
+und mancher Grieche fällt von unsern Streichen.
+Schon fliehn sie schaarenweiß, dem drohenden Geschick
+am sichern Bord der Schiffe zu entweichen.
+Bis in des Rosses Bauch scheucht sie die Furcht zurück.
+Ach niemand schmeichle sich, im Dünkel großer Thaten,
+der Götter Gnade zu entrathen!
+
+
+[46]
+
+
+71.
+
+Was zeigt sich uns! Selbst an Tritoniens Altar
+erkühnt man sich, Kassandra zu ergreifen.
+Wir sehn mit aufgelöstem Haar
+die Tochter Priams aus dem Tempel schleifen.
+Zum tauben Himmel fleht ihr glühend Angesicht,
+denn, ach! die Fessel klemmt der Jungfrau zarte Hände.
+Choröbus Wahnsinn trägt es nicht,
+er sucht im Schlachtgewühl ein Heldenende.
+
+
+72.
+
+Ihm stürzt in dichtgeschloßnen Gliedern,
+die ganze Schaar der Freunde nach.
+Doch ach! von unsern eignen Brüdern
+kommt hier vom höchsten Tempeldach
+ein mördrisch Pfeilgewölk auf uns herabgeflogen.
+Des Federbusches fremde Zier,
+der Schilde Zeichen, welche wir
+verwechselt, hatte sie betrogen.
+
+
+[47]
+
+
+73.
+
+Die Priesterinn uns abzuringen,
+(verrathen hat uns längst der Sterbenden Geschrey)
+umstürmt uns der Dolopen Schaar. Es dringen
+mit Ajax die Atriden selbst herbey.
+So wenn im Sturme sich die Winde heulend schlagen,
+der wilde Süd, des Nordes rauhe Macht,
+der muthge Ost, auf Titans raschem Wagen,
+es rauscht des Meeres Grund, des Waldes Eiche kracht.
+
+
+74.
+
+Jetzt sehn wir noch zu ganzen Heeren,
+die unsrer Waffen glücklicher Betrug
+vor kurzem noch im finstern Dunkel schlug,
+von ihrer Flucht zurückekehren.
+Ihr schneller Blick erkennt in dunkler Schlacht
+des Helmes List, der Schilde falsche Zeichen.
+Jetzt muß der Augen Wahn dem Klang der Stimmen weichen,
+jetzt siegt des Feindes Uebermacht.
+
+
+[48]
+
+
+75.
+
+Es fällt zuerst, von Penelus durchstochen,
+Choröbus an Tritoniens Altar.
+Es fällt, der das Gesetz der Tugend nie gebrochen,
+Ripheus, der redlichste, den Ilium gebahr.
+Die Götter richteten nicht so! Von Freundesstreichen
+ligt Hypanis, ligt Dymas, hingestreckt;
+und kann der Priesterschmuck, der dich o Panthus deckt,
+kann selbst dein schuldlos Herz die Himmlischen erweichen?
+
+
+76.
+
+Zeugt mirs, ihr Helden, die ihr längst verschieden,
+ihr Todesfakeln meiner Vaterstadt!
+ob diese Rechte je den Kampf gemieden,
+zu eurer Rettung je gefeiert hat?
+Ob ich, trotz dem Geschick, das Leben mir erschlichen?
+und Schonung mir verdient von des Achivers Speer?
+Jetzt riß der Strom mich fort, mir folgen, obgleich schwer
+von Alter, Greis Iphyt und Pelias von Stichen.
+
+
+[49]
+
+
+77.
+
+Zu Priams Burg ruft uns der Stimmen lautster Hall.
+Als ras’te nirgends sonst der Streitenden Gedränge,
+nicht durch ganz Ilium der Waffen wilder Schall,
+erblick ich hier ein fürchterlich Gemenge,
+des Andrangs Ungestüm, ergrimmten Widerstand.
+Den Feind seh ich die hohen Dächer stürmen
+und mit der Schilde dichtgeschloßnem Band
+sich furchtbar vor den Eingang thürmen.
+
+
+78.
+
+Ich sehe Leitern an die Mauren legen,
+entschlossen klimmt der trotzge Sieger nach,
+die linke hält den Schild der Pfeile Sturm entgegen,
+fest klammert sich die Rechte an das Dach.
+Beschäftigt ist mein Volk, die Thürme abzutragen,
+und mit den Trümmern wird der Stürmende bedroht,
+die letzte Zuflucht ihrer Noth,
+wenn alles alles fehlgeschlagen!
+
+
+[50]
+
+
+79.
+
+Herabgestürzt seh ich die übergoldten Zinnen,
+Denkmäler alter königlicher Pracht.
+Mit bloßem Schwerd wird jeder Weg nach innen,
+von einer dichten Schaar Dardanier bewacht.
+Ein frischer Muth lebt auf in unsern Seelen
+der schwerbedrängten Burg des Königs beyzustehn,
+mit Stärke Stärke zu vermählen,
+und der Besiegten Muth mitstreitend zu erhöhn.
+
+
+80.
+
+Noch führten zum Pallast, der Menge unbekannt,
+geheime abgelegne Thüren,
+durch deren nie entdecktes Band
+die Zimmer ineinander sich verlieren.
+Oft hatte, frey von des Gefolges Zwang,
+Andromache in Trojas schönen Tagen
+auf diesem unbemerkten Gang
+zum frohen Ahn den Enkel hingetragen.
+
+
+[51]
+
+
+81.
+
+Mich bracht’ er jetzt zum höchsten Dach hinauf,
+von wo die Teukrier mit segenleeren Händen
+verlorne Pfeile niedersenden.
+Zum gähen Thurm verfolg ich meinen Lauf,
+der übers Dach empor zum Sternenhimmel schreitet,
+ganz Ilium ligt vor mir ausgebreitet,
+der feindlichen Gezelte ganzes Heer,
+das ganze Schiffbedeckte Meer.
+
+
+82.
+
+Von Tod umringt, zerreissen wir voll Muth
+der Decke schon gewichne Fugen,
+und schleudern sie auf der Achiver Flut
+mit samt den Pfeilern, die sie trugen.
+Herunter stürzen sie mit donnerndem Gekrach,
+und weh den Stürmenden, die sich darunter stellten!
+Doch frische Krieger dringen nach,
+der Streit brennt fort, und alle Waffen gelten.
+
+
+[52]
+
+
+83.
+
+Als wollt er jeden Feind zermalmen
+pflanzt Pyrrhus sich im Glanz der Rüstung vor das Thor.
+Der Schlange gleich, genährt von bösen Halmen,
+die giftgeschwollen schlief im Eisbedeckten Moor,
+und jetzt im neuen Lenz den Panzer von sich streitet,
+am frischen Sonnenstrahl sich glänzender verjüngt,
+den stolzen Nacken hebt, die Spiegelschuppen schleifet,
+und einen Blitz in ihrem Munde schwingt.
+
+
+84.
+
+Dicht an ihm steht der hohe Periphas,
+nächst dem Avtomedon, Achillens Wagenwender,
+es drängt sich Skyros Jugend an den Paß,
+und nach dem Giebel fliegen Feuerbränder.
+Vom Angel haut er selbst der erzbeschlagne Thor,
+und alle Bänder stürzt des Beiles Schwung zu Grunde,
+leicht wird das Holz durchbohrt, das seinen Schirm verlor,
+und weitgeöfnet klafft des Thores Wunde.
+
+
+[53]
+
+
+85.
+
+Des innern Hauses weiter Hof, die Schaar
+der Trojer, die den Eingang hüten,
+der alten Könige geheimste Säle bieten
+dem überraschten Blick sich dar,
+und aus den innersten Gemächern stöhnen
+die Männer Schmerz, der Weiber heulend Ach,
+die ganze Wölbung hallt von Jammerstimmen nach,
+die in den Wolken wiedertönen.
+
+
+86.
+
+Man sieht der Mütter Heer die weite Burg durchschweifen,
+zum letzten Lebewohl die Säulen noch umgreifen,
+und küssen den empfindungslosen Stein.
+Ganz mit des Vaters Trotz bricht Pyrrhus schon herein.
+Ihn hält kein Thor, kein Schwerdt! Die Thüre liegt in Trümmern,
+vom Widder eingerannt. Gewalt macht Bahn.
+Tod ist der erste Gruß. So fluten sie heran,
+von Waffen rauschts in allen Zimmern.
+
+
+[54]
+
+
+87.
+
+So wüthet nicht der hochgeschwollne Bach,
+der schäumend seinen Damm durchbrach,
+der Felsen Kerkerwand mit wildem Grimm durchhauen.
+Er stürzt ins Feld mit trüber Wogen Kraft,
+der Heerden Schaar auf den ertränkten Auen,
+wird mit den Hürden fortgerafft.
+Ich selbst sah, Mord im Blick, den Achilliden
+am Eingang stehn, und bey ihm die Atriden.
+
+
+88.
+
+Ich sah auch Hekuba, sah ihre hundert Töchter,
+sah Priam selbst an den Altar gestreckt,
+den Vater blühender Geschlechter,
+noch mit dem Blut der Opfer frisch befleckt.
+Es tritt der Feind die Saat von fünfzig Ehen,
+der Enkel schöne Hofnung in den Staub,
+die goldne Säule stürzt, behangen mit Trophäen
+und was dem Brand entgieng, das wird des Würgers Raub.
+
+
+[55]
+
+
+89.
+
+Dein Mitleid, Fürstinn, wird mich fragen,
+wie König Priam seine Tage schloß?
+So wisse denn. Kaum hört er Trojens Stunde schlagen,
+und sah den Feind, der durch die Pforten sich ergoß,
+so eilt’ er, sich den Panzer anzuschnallen,
+der die entwöhnten Glieder niederzog,
+umhängt das Schwerdt, das längst der Scheide nicht entflog,
+und stürzt zur Schlacht, als Fürst zu fallen.
+
+
+90.
+
+Es stieg in des Pallastes mittlerm Raume
+ein hoher Altar in des Aethers Plan.
+Ihn fächelte von einem alten Lorbeerbaume
+die nachbarliche Kühlung an.
+Gleich scheuen Tauben, die das donnerschwühle Wetter
+zusammentrieb, lag dorten Hekuba
+mit allen Töchtern knieend da,
+und schloß in ihren Arm die unerweichten Götter.
+
+
+[56]
+
+
+91.
+
+Jetzt sah sie den Gemahl, bereit zur Gegenwehr,
+im jugendlichen Schmuck der Waffen sich bewegen.
+Unglücklicher wohin? ruft sie ihm bang entgegen,
+was für ein Wahnsinn reichte dir den Speer?
+Und wäre selbst mein Hektor noch zugegen,
+jetzt helfen Schwerdt und Lanzen uns nicht mehr.
+Hieher tritt! Dieses Heiligthum schützt alle,
+wo nicht, vermählt uns doch im Falle!
+
+
+92.
+
+Sie sprachs, und zog ihn zu sich hin, und ließ
+im Priesterstuhl den Greis sich niedersetzen.
+Da kam, von Pyrrhus mörderischem Spieß
+durchbohrt, sein Sohn Polit, bluttriefend, voll Entsetzen,
+der Feinde Haufen durch, den weiten Bogengang
+dahergerannt. Sein Blick sucht in der öden Leere
+der weiten Zimmer Schutz, den schon gewissen Fang
+verfolgt Neoptolem mit mordbegiergem Speere.
+
+
+[57]
+
+
+93.
+
+Schon hascht ihn sein furchtbarer Arm,
+und über ihm sieht schon den Stahl der Vater schweben,
+noch flieht er bis zu Priams Fuß, und warm
+entquillt in Strömen Bluts das junge Leben.
+Nicht länger schweigt das Vaterherz,
+obgleich verurtheilt von des Mörders Grimme,
+erhebt er fürchterlich des Zornes Donnerstimme,
+und heult in diese Worte seinen Schmerz.
+
+
+94.
+
+für diese Frevelthat, für diesen bittern Hohn,
+für dieß verfluchenswürdige Erkühnen,
+wenn noch Gerechtigkeit wohnt auf der Götter Thron,
+erwarte dich, wie solche Thaten ihn verdienen,
+dich, Ungeheur, ein grausenvoller Lohn!
+Dich, dich, der mir verruchtem Bubenstücke,
+mit dem erwürgten lieben Sohn
+gefoltert hat die väterlichen Blicke!
+
+
+[58]
+
+
+95.
+
+So wahrlich hielts mit seinem Feinde nicht
+Achill, den du zum Vater dir gelogen.
+Es ehrte mit erröthendem Gesicht
+der Held mein Alter, und der Liebe Pflicht,
+als ich zu ihm, ein Flehender, gezogen.
+Er weigerte mir Hektors Leichnam nicht,
+des Todten Feyer würdig zu begehen,
+und ließ mich Troja wieder sehen.
+
+
+96.
+
+Mit diesen Worten schleudert er den Schaft,
+der ohne Klang der schwachen Hand enteilet,
+und aufgefangen von des Gegners Kraft,
+des Schildes Spitze kaum zertheilet.
+Geh denn, erwiedert Pyrrhus ihm voll Hohn,
+sag dem Achill, wie sehr ihn meine Thaten schänden!
+Verklage dort den tiefgesunknen Sohn,
+jetzt aber stirb von meinen Händen!
+
+
+[59]
+
+
+97.
+
+Er reißt den Zitternden, dieß sagend, zum Altare,
+der noch vom Blut des Kindes raucht,
+faßt mit der linken Hand die silbergrauen Haare,
+indeß die Rechte tief sich in den Busen taucht.
+So endigt’ Priamus. Sein Aug’ sah Troja brennen,
+die über Asien den Scepter ausgestreckt.
+Jetzt ein gigantscher Rumpf, am Meeresstrand entdeckt,
+es fehlt das Haupt und niemand kann ihn nennen.
+
+
+98.
+
+Jetzt wird zum erstenmal von Furcht mein Herz erfüllt.
+Des alten Königs letztes Blaßen
+weckt mir des eignen theuren Vaters Bild,
+zeigt mir mein Haus im Schutt, Gemahlinn, Kind verlassen.
+Ich spähe rings um, wer mir folgen kann.
+Ach, matt vom Streit sind alle längst verschwunden.
+Hier hatten sie vom Thurm den kühnen Sprung gethan,
+dort in den Flammen ihren Tod gefunden.
+
+
+[60]
+
+
+99.
+
+So war ich denn der Einzigübrige von allen,
+als meinem Blick, der durch die Gegend fleugt,
+des Brandes heller Schein in Vesta’s Tempelhallen
+die Tochter Tyndars sprachlos sitzend zeigt.
+Der Griechen Furie, der Phrygier Verderben,
+bang, durch des Gatten strenges Strafgericht,
+bang, durch der Teukrier gerechte Wuth zu sterben,
+barg sie im Heiligthum ihr bleiches Angesicht.
+
+
+100.
+
+Mein Zorn entbrennt. Es reißt mich hin, sie zu durchbohren,
+zu rächen mein zerstörtes Vaterland.
+Was? Troja setzte sie in Brand,
+und zöge prangend ein in Lacedämons Thoren?
+die Teukrer hinter sich in sklavischem Gewand?
+Sie sähe Gatten, Kinder, Eltern, Vaterland?
+Sie dürfte mit das Siegesfest begehen?
+Nein! das wird nimmermehr geschehen!
+
+
+[61]
+101.
+
+Mags seyn, daß des gestraften Weibes Blut
+des Mannes Schwerdt nicht ehrt, den leichten Sieger schändet.
+Genug, ich sättige der Rache heiße Glut,
+der Frevel wird gestraft, gerächt der Freunde Blut,
+und eine Schuldige dem Orkus zugesendet.
+So sprach aus mir des eiteln Grimmes Wuth,
+als plözlich, schön, wie sie sich nimmer mir gezeiget,
+der Mutter Glanzgestalt sich zu mir neiget.
+
+
+102.
+
+Ganz Göttinn, ganz umflossen von dem Lichte,
+worinn sie steht vor Jovis Angesichte,
+durchschimmerte ihr Glanz die Dunkelheit.
+Von welcher Wuth, mein Sohn, von welcher Wunde
+entbrennt dein Herz? ertönts von ihrem Rosenmunde,
+indem ihr Arm zu stehen mir gebeut.
+Wohin mit diesen wüthenden Gebärden?
+Was soll aus deiner Mutter werden?
+
+
+[62]
+103.
+
+Du willst nicht lieber sehn, ob dein Askan noch lebt,
+wo du des Vaters graues Haupt verlassen,
+in welchen Nöthen jetzt dein Weib Kreusa schwebt,
+die der Achiver Schwärme rings umfassen,
+längst, ohne mich, ein Raub des Feuers oder Schwerdts?
+Nicht die spartan’sche Helena laß büßen,
+nicht Paris klage an. Da! zürne himmelwärts!
+Die Götter sinds, die Trojas Untergang beschließen!
+
+
+104.
+
+Blick auf! Der Nebel sey zerstreut,
+der noch mit Finsterniß dein sterblich Aug’ umhüllet.
+Doch werde streng von dir erfüllet,
+was deine Mutter dir gebeut,
+Du siehst, wie Staub und Rauch in schwarzen Fluten steiget,
+siehst Schutt auf Schutt und Stein auf Stein gehäuft.
+Das ist Neptun, der Trojas Veste schleift,
+und mit dem Dreyzack ihre Mauren beuget.
+
+
+[63]
+
+
+105.
+
+Am Scäerthor siehst du Saturnia
+die Unbarmherzige in rauhem Eisen blinken,
+siehst von den Schiffen sie stets neue Feinde winken.
+Auf Pergams Thurm siehst du Tritonia,
+in ihrer Hand der Gorgo Schreckniß, blitzen,
+du siehst – o fliehe fliehe, theurer Sohn,
+des Himmels König selbst auf Idas düsterm Thron
+den Feinden Kräfte leihn, die Himmlischen erhitzen.
+
+
+106.
+
+Gib auf die eitle Gegenwehr.
+O säume nicht, noch zeitig zu entrinnen,
+noch unverletzt wirst du dein Haus gewinnen,
+ich bin mit dir. Sie sprachs und – Nacht war um mich her.
+Und mir erschienen mit des Grimmes Falten
+der hohen Götter feindliche Gestalten,
+Verwüstung, Einsturz, Grausen um und um,
+in Asche sank vor mir ganz Ilium.
+
+
+[64]
+
+
+107.
+
+So, wenn der Pflüger Schaar, auf hoher Bergesheide,
+der Aexte mörderische Schneide
+auf den bejahrten Stamm der wilden Esche zückt.
+sie murrt erzürnt herab, die schwanke Krone nickt,
+erschüttert rauscht der dichtbelaubte Wipfel;
+bis von der Wunden Macht besiegt,
+sie ächzend sich herunter wiegt,
+und sich zermalmend wälzt von des Gebirges Gipfel.
+
+
+108.
+
+Jetzt eil ich fort. Durch Flammen, Schwerdt und Leichen
+führt unbeschädigt mich ein Gott, es weichen
+die Lanzen vor mir aus, das Feuer macht mir Bahn.
+Schon hab ich mich zur Wohnung durchgeschlagen,
+mit dem verehrten Vater fang ich an,
+ihn will ich rettend erst auf das Gebirge tragen,
+umsonst bestürmt ihn seines Sohnes Flehn.
+Ihm grauts, verbannt zu seyn in seinen alten Tagen,
+mit Troja will er untergehn.
+
+
+[65]
+
+
+109.
+
+Ihr andern, ruft er aus, in deren festen Brüsten
+der Jugend üppige Gesundheit glüht,
+spart euch für beßre Tage – flieht!
+Wars mir von Zevs bestimmt, des Lebens Rest zu fristen,
+so war er Gott genug, den Flammen selbst zum Hohn,
+ein Haus mir zu verleyhn. Genug, daß Einmal schon
+dieß graue Haupt den Fall Dardaniens betrauert,
+genug, daß es ihn einmal überdauert!
+
+
+110.
+
+So will ich es. Jetzt Kinder nehmt
+den letzten Abschied von Anchisen.
+Den Weg zum Tode find ich selbst, es schämt
+der Feind sich nicht, mein Blut mitleidig zu vergiessen.
+Er zieht mich aus. Gleichviel, begraben oder nicht!
+Die Götter hassen mich. Wozu noch länger tragen
+des siechen Lebens lastendes Gewicht,
+an Thaten leer, seitdem mich Jovis Blitz geschlagen?
+
+
+[66]
+
+
+111.
+
+Er sprachs und unbeweglich blieb er stehn.
+Ihn beugt nicht unser heißes Dringen,
+nicht seines Enkels, nicht Kreusens Händeringen,
+nicht unsrer Thränen Bund, die strömend zu ihm flehn,
+durch solchen Trotz doch nicht den Tod herbey zu rufen,
+nicht uns, uns alle, mit in seinen Fall zu ziehn.
+Er bleibt auf seinem Nein, und weicht nicht von den Stufen,
+aufs neu muß ich dem Tod entgegen fliehn.
+
+
+112.
+
+Denn, Götter, welche Wahl ward mir gegeben!
+Dich Vater ließ ich fliehend hinter mir?
+Solch grausames Begehren kam von dir?
+Ists Jovis Schluß, soll nichts die Heimat überleben,
+beharrest du darauf, daß uns derselbe Tod
+vereinige. Wohlan, der Wunsch ist zu erhören.
+Schon naht, von Priams Blut und seines Sohnes roth,
+Neoptolem, bereit, der Opfer Zahl zu mehren.
+
+
+[67]
+
+
+113.
+
+Und darum führtest du durch Schwerdt und Feuer
+erhabne Mutter deinen Sohn? Ich soll den Feind
+auch hier noch wüthen sehn, soll alles, was mir theuer
+und theuer ist, in Einem Fall vereint,
+an seinem Speere sich verbluten sehen?
+O Waffen, Waffen her. Der letzte Tag bricht an.
+Laßt uns aufs neu dem Feinde stehen,
+nicht ungerochen stirbt, wer männlich fechten kann!
+
+
+114.
+
+Sogleich gürt ich das Schwerdt mir um den Leib,
+und in des Schildes Griff muß sich die Linke fügen.
+So gehts zum Thor. Ach, hier seh ich mein theures Weib,
+den Kleinen zu mir neigend, vor mir liegen.
+Zum Tod gehst du, ruft sie, so nimm auch uns mit fort!
+Doch hoffst du Rettung noch von deinen Heldenarmen,
+so bleib, und schütze diesen Ort.
+Was wird aus uns? Wer wird der deinen sich erbarmen?
+
+
+[68]
+
+
+115.
+
+So ruft sie heulend und erfüllt
+das ganze Haus mit ihren Schmerzen,
+als unverhofft, da wir den kleinen Julus herzen,
+dem überraschten Blick ein Wunder sich enthüllt.
+Sieh! Von des Knaben Scheitel quillt
+hellleuchtend eine Feuerflocke,
+sie wächst indem sie niederfällt, und mild
+durchkräuselt sie die unversehrte Locke.
+
+
+116.
+
+Schnell schütteln wir sie weg, und eilen, für Askan
+besorgt, die heilge Glut mit Wasser zu ersticken,
+Anchises aber streckt die Hände himmelan,
+und dankt hinauf mit Freude hellen Blicken
+Jetzt endlich, grosser Zevs! Jetzt, jetzt sind wir erhört.
+O blick, wenn anders Bitten dich bewegen,
+mit Huld auf uns herab, und, sind wirs werth,
+verleih uns Schutz, bekräftge diesen Seegen.
+
+
+[69]
+
+
+117.
+
+Er spricht es, und zur Linken kracht
+ein lauter Donnerschlag. In schönem Strahlenbogen
+kommt durch die weit erhellte Nacht
+ein funkelndes Gestirn geflogen.
+In unserm Zenith stieg es auf und zog
+die Silberfurche hin nach Idas Triften,
+den Weg uns zeigend, den es flog,
+die ganze Gegend raucht von Schwefeldüften.
+
+
+118.
+
+Von dieser Zeichen Macht besiegt,
+rafft sich Anchises auf, und betet zu dem Sterne.
+Fort, ruft er, fort. Die Zeit ist kostbar. Fliegt.
+Führt mich von dannen, seys auch noch so ferne.
+Euch Götter, die dieß Zeichen uns gesandt,
+vertrau ich dieses Kind, vertrau ich diese Beyden,
+in eurer Obhut steht das Vaterland.
+Jetzt komm mein Sohn. Ich folge dir mit Freuden.
+
+
+[70]
+
+
+119.
+
+Und lauter immer lauter hört man schon
+des Brandes nahe Feuerflammen krachen.
+Auf Vater, ruf ich, auf! Ich trage dich, den Schwachen,
+leicht drückt des Vaters theure Last den Sohn.
+Was nun auch kommen mag, wir theilen Tod und Leben,
+die Hand will ich dem Kleinen geben,
+in einger Ferne folgt Kreusa still.
+Ihr Knechte merkt, was ich jetzt sagen will.
+
+
+120.
+
+Gleich vor der Stadt steht ihr an einem Felsenhange,
+den ein verlaßner Ceres Tempel schmückt,
+daneben ein Cypressenbaum; seit lange
+mit Andacht von den Vätern angeblickt.
+Dort treffen wir uns, in verschiednen Schaaren!
+Du Vater wirst die Heiligthümer wahren.
+Wie dürfte sie, noch nicht genetzt von frischer Flut,
+berühren diese Hand voll Blut!
+
+
+[71]
+
+
+121.
+
+Sogleich wird ein Gewand den Schultern umgehangen,
+vom Rücken wallt noch eine Löwenhaut,
+ich neige mich, die Last des Vaters zu empfangen,
+der Rechten wird mein Julus anvertraut,
+der neben mir mit kürzern Schritten eilet,
+und hinter unserm Rücken weilet,
+zu hintergehn den laurenden Verdacht,
+Kreusens Schritt – So fliehn wir durch die Nacht.
+
+
+122.
+
+Wie oft auch sonst im wildesten Gemenge
+der Schlacht mein Busen unerschüttert blieb,
+wie wenig mir der Feinde furchtbarstes Gedränge
+die Röthe von den Wangen trieb,
+jetzt machte jeder Laut mich beben,
+mir schauerte vor jedes Lüftchens Zug,
+besorgt für des Begleiters Leben,
+bang für die Bürde, die ich trug.
+
+
+[72]
+
+
+123.
+
+Schon sehn wir uns mit raschen Schritten
+unfern dem Thore, frey von feindlicher Gewalt,
+als ein Geräusch von Menschentritten
+in die erschrocknen Ohren schallt,
+und durch der Finsternisse Schleyer
+sah meines Vaters Furcht der Schilde blitzend Feuer,
+der Helme blanke Sonnen glühn.
+Sie sinds, ruft er, o laß uns eilends fliehn!
+
+
+124.
+
+Noch heute weiß ich nicht, welch feindliches Geschick
+den Muth mir nahm, die Sinne mir verwirrte
+in diesem unglücksvollen Augenblick?
+In unwegsame Gegenden verirrte
+mein Fuß, ach hielt ein Gott Kreusen mir zurük?
+Verlor sie sich auf unbekannten Pfaden?
+Blieb sie ermattet stehn? Ich hab es nie errathen.
+Verschwunden war sie ewig meinem Blick!
+
+
+[73]
+
+
+125.
+
+Und erst, als am bezeichneten Altar
+versammelt waren alle Seelen,
+ward ich den schrecklichen Verlust gewahr,
+sah ich von allen sie allein uns fehlen.
+Wen im Olymp schalt nicht mein blutend Herz,
+wen klagt’ mein Grimm nicht an auf Tellus weitem Runde!
+Was war mir gegen diesen Schmerz
+des Reiches Fall und Trojas letzte Stunde?
+
+
+126.
+
+In der Gefährten treuer Hand
+verlaß ich Julus und Anchisen,
+und unsrer Götter heilges Pfand,
+im Thal wird ihnen Zuflucht angewiesen.
+Ich selber wende mit dem blanken Stahl
+zur Stadt zurück. Gälts auch, ganz Troja zu durchspähen,
+mein Schluß steht fest, der Schrecken ganze Zahl
+und jegliche Gefahr von neuem zu bestehen.
+
+
+[74]
+
+
+127.
+
+Erst eil ich nach dem Thor, das Rettung uns gewährt,
+und meiner Tritte Spur muß mir den Rückweg zeigen.
+Mir graut bey jedem Schritt, es schreckt mich selbst das Schweigen.
+Vielleicht, daß sie zur Wohnung umgekehrt,
+drum eil ich hin, was dort mich auch bedrohe.
+Hier herrscht bereits der Feind. Vom Wind gegeisselt wehn.
+Die Flammen schon bis an des Giebels Höhn,
+zum Himmel schlägt die fürchterliche Lohe.
+
+
+128.
+
+Des Königs Burg wird jetzt aufs neu von mir besucht.
+Hier hüten Phönix und Ulyß, von allen
+Achivern auserwählt, in den geräumgen Hallen,
+wo Junos Freyheit ist, des blutgen Raubes Frucht.
+Hier seh ich unter Trojas reichen Schätzen,
+dem Feuer abgejagt, der Tempel goldne Zier.
+In langen Reihn gelagert seh ich hier
+der Mütter bleiches Heer, die Kinder voll Entsetzen.
+
+
+[75]
+
+
+129.
+
+Kühn ließ ich durch die todtenstille Nacht,
+verlohrne Müh! der Stimme Klang erschallen,
+ließ durch ganz Ilium den theuren Nahmen hallen,
+in eitelm Suchen hab ich Stunden hingebracht,
+als ein Gesicht, der ähnlich, die ich misse,
+gigantscher nur, als sie im Leben war,
+daher tritt durch die Finsternisse,
+mir graußts, der Athem stockt, zu Berge steigt mein Haar.
+
+
+130.
+
+Warum, ruft es mich an, mit Suchen dich ermüden?
+Wozu, geliebtester Gemahl,
+des langen Forschens undankbare Qual?
+Kreusens Schicksal hat ein Gott entschieden.
+Nie, nie wirst du auf deinem irren Pfad
+von deiner Gattinn dich begleitet sehen.
+Dagegen setzt sich Jovis Rath,
+der droben herrscht in des Olympus Höhen.
+
+
+[76]
+
+
+131.
+
+Ein Flüchtling wirst du lang den Wogen dich vertrauen,
+bis dein geduldger Muth Hesperien erringt,
+durch dessen seegenvolle Auen
+der lydsche Tiberstrom die stillen Fluten schlingt.
+Dir winkt an seinen lachenden Gestaden
+ein Thron und einer Königstochter Hand,
+drum höre auf, in Thränen dich zu baden
+um das zerrißne Liebesband.
+
+
+132.
+
+Ich werde nicht der Griechen Städte steigen
+nicht jubeln sehn der Stolzen Vaterland,
+nicht vor den Griechinnen die Slavenkniee beugen,
+ich Dardans Enkelinn, der Venus anverwandt!
+Es hält bey Priams umgestürztem Throne
+der Götter hohe Mutter mich zurück.
+Leb wohl! Dich grüßt mein letzter Blick!
+Leb wohl und liebe mich in unserm theuren Sohne.
+
+
+[77]
+
+
+133.
+
+Auf meiner Zunge schwebt noch manches Wort,
+noch manchen Laut will ich von ihren Lippen saugen,
+in dünne Lüfte war sie fort,
+ihr folgen weinend meine Augen.
+Dreymal will ich in ihre Arme fliehn,
+dreymal entschlüpft das Bild dem feurigen Berühren,
+gleich leichten Nebeln, die am Hügel ziehn,
+ein Traum, den Titans Pferde rasch entführen.
+
+
+134.
+
+Schnell wend’ ich jetzt, (der Tag fieng an zu grauen)
+zu den Gefährten um. Verwundert fand ich hier
+ein neues grosses Heer von Jünglingen und Frauen,
+des Elends Kinder! gleichgesinnt mit mir,
+auf fremdem Strand sich anzubauen.
+Entschlossen strömten sie mit Haab und Gut herbey,
+bereit, durch welche Fluten es auch sey,
+sich meiner Führung zu vertrauen.
+
+
+[78]
+
+
+135.
+
+Der Stern des Morgens stieg empor
+auf Idas hoher Wolkenspitze
+und leuchtete der Sonne Wagen vor.
+Gesperrt hielt der Achiver jedes Thor,
+und nirgends Hofnung mehr die väterlichen Sitze
+zu retten von der Feinde Flut.
+Ich weiche dem Geschick. Die Schultern beugen
+sich unter meines Vaters Last, mit Muth
+raff ich mich auf, den Ida zu besteigen.
