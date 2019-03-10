@@ -15,7 +15,7 @@
 14,Der Abend,G,1776
 15,Amalia,G,1787
 16,an die Freude,G,1785
-17,das Geheimnis der Reminiszemz,G,
+17,Euripides,N,1791
 18,das Ideal und das Leben,G,1795
 19,das verschleierte Bild zu Sais,G,1795
 20,der Eroberer,G,1777
@@ -33,7 +33,7 @@
 32,die Kindsmörderin,G,1782
 33,die Teilung der Erde,G,1795
 34,eine grossmütige Handlung,E,1782
-35,eine Leichenphantasie,,
+35,Natur und Schule,G,1791
 36,Hektors Abschied,G,1800
 37,an Emma,G,1797
 38,das Geheimnis,G,1797
@@ -46,7 +46,7 @@
 45,die Geschichte des 30jaehrigen Krieges,H,1790
 46,Ritter Toggenburg,G,1797
 47,Resignation,G,1786
-48,Phantasie an Laura,G,
+48,Von den notwendigen Grenzen des Schönen besonders im Vortrag philosophischer Wahrheiten,P,1795
 49,Klage der Ceres,G,1796
 50,Zenith und Nadir,G,1803
 51,Über epische und dramatische Dichtung,P,1797
@@ -81,56 +81,56 @@
 80,Der Jüngling am Bache,G,1803
 81,An den Frühling,G,1782
 82,An den Herausgeber der Propyläen,E,1799
-83,an einen Moralisten,E,
-84,An Minna,,
-85,Das Glück und die Weisheit,,
-86,Denkwürdigkeiten aus dem Leben des Marschalls von Vieilleville,H,
-87,Der Flüchtling,,
-88,Der Kampf,,
-89,der Spaziergang unter den Linden,P,
-90,der Triumph der Liebe,,
+83,Nänie,G,1800
+84,Ausgang aus dem Leben,G,1795
+85,das Kind in der Wiege,G,1795
+86,das unwandelbare,G,1795
+87,Theophanie,G,1795
+88,das Höchste,G,1795
+89,Unsterblichkeit,G,1795
+90,im Reich der Schatten,G,1795
 91,die Blumen,G,1781
-92,die Freundschaft,,
+92,die Kindsmörderin,G,1782
 93,Die Gesetzgebung des Lykurgus und Solon,H,1790
-94,die Größe der Welt,,
-95,Elegie auf den Tod eines Jünglings,,
-96,Gruppe aus dem Tartarus,,
-97,In einer Bataille,,1782
+94,An Heribert von Dalberg,B,1781
+95,Dido,N,1792
+96,die Zerstörung von Troja,N,1792
+97,die Schlacht,G,1782
 98,an die Freude II,G,1805
 99,Die Schaubuehne als moralische Anstalt betrachtet,P,1784
 100,Die Sendung Moses,P,1790
 101,Über den Zusammenhang der thierischen Natur des Menschen mit seiner geistigen,P,1780
-102,Elysium,G,
+102,An Wilhelm Petersen,B,1781
 103,Die unüberwindliche Flotte,G,1785
 104,Iphigenie in Aulis,N,1788
 105,über Egmont,P,1788
 106,Etwas über die erste Menschengesellschaft nach dem Leitfaden der mosaischen Urkunde,P,1790
 107,Gedanken über den Gebrauch des gemeinen und niedrigen in der Kunst,P,1802
-108,Geschichte der Unruhen in Frankreich welche der Regierungen Heinrichs IV vorangingen,H,
+108,An Friedrich von Hoven,B,1781
 109,Geschichte des Abfalls der Vereinigten Niederlande von der spanischen Regierung,H,1788
-110,Graf Eberhard der Greiner von Württemberg,,
-111,Herzog von Alba bei einem Frühstück auf dem Schlosse zu Rudolstadt,H,
+110,An Oberst von Seeger,B,1780
+111,An Christian Schwan,B,1781
 112,Macbeth,N,1800
-113,Männerwürde,,
+113,An Christophine Schiller,B,1780
 114,Melancholie an Laura,G,1782
 115,Philosophische Briefe,P,1786
 116,Resignation,G,1786
-117,Rousseau,,
+117,An Frau Elisabetha Margaretha Stoll,B,1772
 118,Über Anmuth und Würde,P,1793
 119,Über Bürgers Gedichte,P,1791
 120,Über das Erhabene,P,1793
-121,Über das Pathetische,P,
+121,Die Maltheser,D,1805
 122,Über den Gartenkalender auf das Jahr 1795,P,1794
 123,Über den Grund des Vergnuegens an tragischen Gegenständen,P,1792
-124,Über den moralischen Nutzen ästhetischer Sitten,P,
+124,Warbeck,D,1805
 125,Über die ästhetische Erziehung des Menschen in einer Reihe von Briefen,P,1795
-126,Über die nothwendigen Grenzen schöner Formen,P,
+126,Augustenburger Briefe,B,1793
 127,Über die tragische Kunst,P,1792
 128,Über Matthissons Gedichte,P,1794
 129,Über naive und sentimentalische Dichtung,P,1795
-130,Übersicht des Zustands von Europa zur Zeit des ersten Kreuzzugs,H,
-131,Über Völkerwanderung Kreuzzuege und Mittelalter,H,
-132,Universalhistorische Übersicht der merkwürdigsten Staatsbegebenheiten,H,
+130,An Scharffenstein,B,1778
+131,An Bolgeol,B,1778
+132,An Hauptmann von Hoven,B,1780
 133,Vorrede zu dem ersten Theile der merkwürdigsten Rechtsfälle,E,1792
 134,Vorrede zu der Geschichte des Maltheserordens,H,1792
 135,Was heisst und zu welchem Ende studiert man Universalgeschichte,P,1789
@@ -142,7 +142,7 @@
 141,Der Kampf mit dem Drachen,G,1798
 142,Der Kaufmann,G,1795
 143,Der Metaphysiker,G,1795
-144,Der Nachahmer,,
+144,Würde der Frauen,G,1795
 145,Der philosophische Egoist,G,1795
 146,Der Pilgrim,G,1803
 147,Der Sämann,G,1795
@@ -155,24 +155,24 @@
 154,Die berühmte Frau,G,1788
 155,Die Bürgschaft,G,1798
 156,Die Erwartung,G,1799
-157,Die Flüsse,,
-158,Die Forscher,,
+157,Thekla,G,1802
+158,Tugend des Weibes,G,1797
 159,Die Führer des Lebens,G,1795
 160,Die Geschlechter,G,1797
 161,Die Gunst des Augenblicks,G,1802
-162,Die Homeriden,,
+162,Reiterlied,G,1797
 163,Die idealische Freiheit,G,1795
 164,Die Johanniter,G,1795
 165,Die Künstler,G,1789
 166,Die Macht des Gesanges,G,1795
-167,Die Mannigfaltigkeit,,
-168,Die Philosophen,,
-169,Die Rache der Musen,,
+167,Pompeji und Herculanum,G,1797
+168,Punschlied,G,1803
+169,Radowessiers Totenlied,G,1797
 170,Die Sänger der Vorwelt,G,1795
 171,Die schönste Erscheinung,G,1797
 172,Die Sehnsucht,G,1802
-173,Die Sonntagskinder,,
-174,Die verschiedene Bestimmung,,
+173,Poesie des Lebens,G,1798
+174,Politische Lehre,G,1797
 175,Die vier Weltalter,G,1802
 176,Die Weltweisen,G,1795
 177,Die Worte des Glaubens,G,1797
@@ -182,63 +182,63 @@
 181,Distilchen II,G,1797
 182,Distilchen III,G,1797
 183,Dithyrambe,G,1797
-184,Einem Freunde ins Stammbuch,,
+184,Pegasus in Joche,G,1795
 185,Einem jungen Freund,G,1795
 186,Einer jungen Freundin ins Stammbuch,G,1796
-187,Genialität,,
-188,Griechheit,,
+187,Menschliches Wissen,G,1795
+188,Odysseus,G,1795
 189,Hero und Leander,G,1801
 190,Hoffnung,G,1798
 191,Ilias,G,1795
-192,In das Folio Stammbuch,,
-193,Jeremiade,,
+192,Macht des Weibes,G,1797
+193,Majestas populi,G,1797
 194,Karthago,G,1795
 195,Kassandra,G,1802
-196,Kleinigkeiten,,
-197,Licht und Wärme,G,1797
-198,Macht des Weibes,G,1797
-199,Majestas populi,G,1797
-200,Menschliches Wissen,G,1795
-201,Odysseus,G,1795
-202,Parabeln und Rätsel,G,
-203,Pegasus in Joche,G,1795
-204,Poesie des Lebens,G,1798
-205,Politische Lehre,G,1797
-206,Pompeji und Herculanum,G,1797
-207,Punschlied,G,1803
-208,Radowessiers Totenlied,G,1797
-209,Reiterlied,G,1797
-210,Sängers Abschied,,
-211,Schöne Individualität,,
-212,Shakespeares Schatten,,
-213,Thekla,G,1802
-214,Tugend des Weibes,G,1797
-215,Würde der Frauen,G,1795
-216,Augustenburger Briefe,B,1793
-217,Warbeck,D,1805
-218,Die Maltheser,D,1805
-219,An Frau Elisabetha Margaretha Stoll,B,1772
-220,An Scharffenstein,B,1778
-221,An Bolgeol,B,1778
-222,An Hauptmann von Hoven,B,1780
-223,An Christophine Schiller,B,1780
-224,An Oberst von Seeger,B,1780
-225,An Christian Schwan,B,1781
-226,An Friedrich von Hoven,B,1781
-227,An Wilhelm Petersen,B,1781
-228,An Heribert von Dalberg,B,1781
-229,Dido,N,1792
-230,die Zerstörung von Troja,N,1792
-231,die Schlacht,G,1782
-232,die Kindsmörderin,G,1782
-233,Nänie,G,1800
-234,Ausgang aus dem Leben,G,1795
-235,das Kind in der Wiege,G,1795
-236,das unwandelbare,G,1795
-237,Theophanie,G,1795
-238,das Höchste,G,1795
-239,Unsterblichkeit,G,1795
-240,im Reich der Schatten,G,1795
-241,Von den notwendigen Grenzen des Schönen besonders im Vortrag philosophischer Wahrheiten,P,1795
-242,Natur und Schule,G,1791
-243,Euripides,N,1791
+196,Licht und Wärme,G,1797
+197,,,
+198,,,
+199,,,
+200,,,
+201,,,
+202,,,
+203,,,
+204,,,
+205,,,
+206,,,
+207,,,
+208,,,
+209,,,
+210,,,
+211,,,
+212,,,
+213,,,
+214,,,
+215,,,
+216,,,
+217,,,
+218,,,
+219,,,
+220,,,
+221,,,
+222,,,
+223,,,
+224,,,
+225,,,
+226,,,
+227,,,
+228,,,
+229,,,
+230,,,
+231,,,
+232,,,
+233,,,
+234,,,
+235,,,
+236,,,
+237,,,
+238,,,
+239,,,
+240,,,
+241,,,
+242,,,
+243,,,
