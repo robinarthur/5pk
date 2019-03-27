@@ -1,0 +1,17 @@
+# my two go-to styles - put it into the anaconda prompt on windows
+
+
+# dark
+jt -t onedork -fs 12 -altp -tfs 12 -nfs 12 -cellw 90% -T
+
+# light
+jt -t grade3 -fs 12 -altp -tfs 12 -nfs 12 -cellw 90% -T
+
+
+
+if its not installed:
+# install jupyterthemes
+pip install jupyterthemes
+
+# upgrade to latest version
+pip install --upgrade jupyterthemes
